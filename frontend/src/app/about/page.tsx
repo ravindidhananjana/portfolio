@@ -11,10 +11,6 @@ const fadeInUp = {
   transition: { duration: 0.5 }
 };
 
-const staggerContainer = {
-  animate: { transition: { staggerChildren: 0.1 } }
-};
-
 export default function AboutPage() {
   const interests = [
     "Computer Vision",
@@ -38,7 +34,7 @@ export default function AboutPage() {
             Hi, I&apos;m <span className="text-accent">Ravindi</span>
           </h1>
           <p className="text-lg md:text-xl text-foreground/70 max-w-3xl leading-relaxed">
-            I'm a final-year AI student bridging cutting-edge research with real-world impact. I build intelligent systems that perceive, understand, and solve complex problems.
+            I&apos;m a final-year AI student bridging cutting-edge research with real-world impact. I build intelligent systems that perceive, understand, and solve complex problems.
           </p>
         </motion.div>
       </div>
@@ -139,7 +135,7 @@ export default function AboutPage() {
         >
           <h2 className="text-sm font-mono text-accent uppercase tracking-wider mb-6">My Journey</h2>
           <p className="text-foreground/80 leading-relaxed mb-4">
-            I'm passionate about bridging the gap between cutting-edge AI research and practical applications. What excites me most is working on complex problems—from multimodal medical imaging diagnostics to space-related AI applications—that require deep understanding of both software engineering and advanced machine learning.
+            I&apos;m passionate about bridging the gap between cutting-edge AI research and practical applications. What excites me most is working on complex problems—from multimodal medical imaging diagnostics to space-related AI applications—that require deep understanding of both software engineering and advanced machine learning.
           </p>
           <p className="text-foreground/80 leading-relaxed">
             My goal is to become an AI/Computer Vision Engineer where I can build scalable, high-impact intelligent systems that make a real difference. I believe technology should solve meaningful problems.

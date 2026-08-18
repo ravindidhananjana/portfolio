@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion";
-import { Download, Sparkles, FileText } from "lucide-react";
+import { Download, FileText } from "lucide-react";
 import Link from "next/link";
 import { Button } from "@/components/ui/Button";
 

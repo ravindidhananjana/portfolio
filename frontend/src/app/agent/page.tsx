@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { TbSend, TbRobot, TbUser, TbTerminal, TbLoader, TbSparkles, TbRefresh } from "react-icons/tb";
+import { TbSend, TbLoader, TbSparkles, TbRefresh, TbUser } from "react-icons/tb";
 import { Button } from "@/components/ui/Button";
 
 interface Message {
