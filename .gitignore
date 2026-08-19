@@ -1,7 +1,15 @@
 # Python
 backend/venv/
+backend/.venv/
 backend/__pycache__/
+**/__pycache__/
 *.pyc
+
+# Secrets / Environment
+.env
+.env.local
+.env.*.local
+backend/.env
 
 # Node
 frontend/node_modules/

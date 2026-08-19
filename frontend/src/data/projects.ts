@@ -39,31 +39,4 @@ export const projects: Project[] = [
     liveUrl: "https://final-mbbs-clinical-simulator.streamlit.app/",
     featured: true,
   },
-  {
-    id: "rsna-knee",
-    title: "RSNA Knee Osteoarthritis Detection",
-    description:
-      "Predictive model for detecting knee osteoarthritis severity from X-ray images, built for a Kaggle competition.",
-    tags: ["TensorFlow", "Image Classification", "Kaggle", "Healthcare"],
-    githubUrl: "https://github.com/ravindidhananjana/rsna-knee-detection",
-    featured: false,
-  },
-  {
-    id: "weather-forecasting",
-    title: "Predictive Weather Modeling",
-    description:
-      "Time-series forecasting models to predict severe weather patterns utilizing meteorological data.",
-    tags: ["Machine Learning", "Time-Series", "Scikit-Learn"],
-    githubUrl: "https://github.com/ravindidhananjana/weather-forecasting",
-    featured: false,
-  },
-  {
-    id: "tom-jerry",
-    title: "Tom and Jerry Action Classifier",
-    description:
-      "Deep learning project that classifies and tracks characters and actions in Tom and Jerry cartoon clips.",
-    tags: ["Deep Learning", "Action Recognition", "Video Processing"],
-    githubUrl: "https://github.com/ravindidhananjana/tom-and-jerry-classifier",
-    featured: false,
-  },
 ];
