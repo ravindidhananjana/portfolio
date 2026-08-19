@@ -1,4 +1,5 @@
 from contextlib import asynccontextmanager
+from urllib.parse import urlsplit
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.config import settings
@@ -26,8 +27,17 @@ async def lifespan(app: FastAPI):
 app = FastAPI(title="Elara Portfolio Agent Backend", version="1.0.0", lifespan=lifespan)
 
 # CORS configuration
-origins = [
-    settings.FRONTEND_URL,
+def configured_origins(value: str) -> list[str]:
+    origins = []
+    for configured_origin in value.split(","):
+        origin = configured_origin.strip().rstrip("/")
+        parsed = urlsplit(origin)
+        if parsed.scheme and parsed.netloc:
+            origins.append(f"{parsed.scheme}://{parsed.netloc}")
+    return origins
+
+
+origins = configured_origins(settings.FRONTEND_URL) + [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
 ]
