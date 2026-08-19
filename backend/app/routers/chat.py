@@ -6,7 +6,8 @@ import json
 import asyncio
 
 router = APIRouter()
-agent = ElaraAgent()
+# Agent instance will be set by main.py lifespan
+agent: ElaraAgent | None = None
 
 class ChatRequest(BaseModel):
     query: str

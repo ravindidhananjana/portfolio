@@ -1,10 +1,10 @@
-from app.agent.llm_client import GeminiClient
+from app.agent.llm_client_fallback import LLMClientWithFallback
 from app.storage.faiss_store import FaissStore
 from app.config import settings
 import os
 
 class Retriever:
-    def __init__(self, gemini_client: GeminiClient, vector_store_dir: str = "vector_store"):
+    def __init__(self, gemini_client: LLMClientWithFallback, vector_store_dir: str = "vector_store"):
         self.client = gemini_client
         self.store = FaissStore()
         self.vector_store_dir = vector_store_dir

@@ -1,9 +1,29 @@
+from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.config import settings
 from app.routers import chat, sync
+from app.agent.agent import ElaraAgent
 
-app = FastAPI(title="Elara Portfolio Agent Backend", version="1.0.0")
+
+# Global agent instance for lifespan management
+_agent: ElaraAgent | None = None
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """Application lifespan manager."""
+    global _agent
+    _agent = ElaraAgent()
+    # Make agent accessible to routers
+    chat.agent = _agent
+    yield
+    # Cleanup on shutdown
+    if _agent:
+        await _agent.close()
+
+
+app = FastAPI(title="Elara Portfolio Agent Backend", version="1.0.0", lifespan=lifespan)
 
 # CORS configuration
 origins = [
