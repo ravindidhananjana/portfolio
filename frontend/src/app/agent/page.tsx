@@ -239,7 +239,7 @@ export default function AgentPage() {
 
                     <div className={`max-w-[85%] rounded-2xl px-4 py-3 text-sm leading-relaxed shadow-sm ${
                       msg.role === "user"
-                        ? "border border-accent/25 bg-gradient-to-br from-accent/18 to-accent/10 text-white"
+                        ? "border border-accent/25 bg-gradient-to-br from-accent/18 to-accent/10 text-black"
                         : "border border-surface-border/70 bg-surface-light/75 text-black"
                     }`}>
                       {msg.role === "assistant" && msg.content ? (
