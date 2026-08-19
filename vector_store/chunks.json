@@ -1,0 +1,1612 @@
+[
+  {
+    "text": "Context Source: knowledge/contact (contact)\nTitle: Contact\nURL: /contact\nContent Chunk:\n# Contact Info: Ravindi Gunasekara\n\nRavindi Gunasekara is open to collaboration, internship roles, and full-time entry-level opportunities in AI, Machine Learning, and Computer Vision.",
+    "metadata": {
+      "source": "knowledge/contact",
+      "title": "Contact",
+      "type": "contact",
+      "url": "/contact",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/contact (contact)\nTitle: Contact\nURL: /contact\nContent Chunk:\nroles, and full-time entry-level opportunities in AI, Machine Learning, and Computer Vision.\n- **Email:** dananjanagunasekara@gmail.com\n- **GitHub:** [https://github.com/ravindidhananjana](https://github.com/ravindidhananjana)\n- **LinkedIn:** [https://www.linkedin.com/in/ravindi-gunasekara-b83483334](https://www.linkedin.com/in/ravindi-gunasekara-b83483334)\n- **Kaggle:** [https://www.kaggle.com/hansinigunasekara/competitions](https://www.kaggle.com/hansinigunasekara/competitions)",
+    "metadata": {
+      "source": "knowledge/contact",
+      "title": "Contact",
+      "type": "contact",
+      "url": "/contact",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/contact (contact)\nTitle: Contact\nURL: /contact\nContent Chunk:\nww.kaggle.com/hansinigunasekara/competitions](https://www.kaggle.com/hansinigunasekara/competitions)\n- **Location:** Sri Lanka (Open to remote roles and relocation opportunities)",
+    "metadata": {
+      "source": "knowledge/contact",
+      "title": "Contact",
+      "type": "contact",
+      "url": "/contact",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/education (education)\nTitle: Education\nURL: /education\nContent Chunk:\n# Education: Ravindi Gunasekara\n## BSc (Hons) Computing (Specializing in Artificial Intelligence)\n- **Institution:** National Institute of Business Management (NIBM)\n- **Status:** Final-Year Undergraduate\n- **Specializations:** Machine Learning, Deep Learning architectures, Computer Vision, Agent Systems, and Web Application Development.\n- **Key Coursework:**\n  - Neural Networks and Deep Learning",
+    "metadata": {
+      "source": "knowledge/education",
+      "title": "Education",
+      "type": "education",
+      "url": "/education",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/education (education)\nTitle: Education\nURL: /education\nContent Chunk:\nand Web Application Development.\n- **Key Coursework:**\n  - Neural Networks and Deep Learning\n  - Computer Vision and Image Processing\n  - Natural Language Processing (NLP)\n  - Data Structures and Algorithms\n  - Software Engineering & System Architecture",
+    "metadata": {
+      "source": "knowledge/education",
+      "title": "Education",
+      "type": "education",
+      "url": "/education",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/experience (experience)\nTitle: Experience\nURL: /experience\nContent Chunk:\n# Experience: Ravindi Gunasekara\n\nRavindi Gunasekara has worked on multiple academic, personal, and research-focused AI projects, applying deep learning and computer vision to solve actual problems.",
+    "metadata": {
+      "source": "knowledge/experience",
+      "title": "Experience",
+      "type": "experience",
+      "url": "/experience",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/experience (experience)\nTitle: Experience\nURL: /experience\nContent Chunk:\nresearch-focused AI projects, applying deep learning and computer vision to solve actual problems.\n## Highlighted AI Projects & Research\n- **Multimodal Leukemia Detection:** Created an AI diagnostic assistant using multimodal data (images and clinical metrics). Implemented with PyTorch, achieving high accuracy in medical classification.",
+    "metadata": {
+      "source": "knowledge/experience",
+      "title": "Experience",
+      "type": "experience",
+      "url": "/experience",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/experience (experience)\nTitle: Experience\nURL: /experience\nContent Chunk:\nand clinical metrics). Implemented with PyTorch, achieving high accuracy in medical classification.\n- **RSNA Knee Osteoarthritis Detection:** Developed predictive model for classifying knee osteoarthritis severity using deep learning architectures and X-ray images, built as part of Kaggle competitions.\n- **Lunar Surface Analysis AI:** Built segmentation and computer vision models to map and classify topographical structures on lunar satellite images.",
+    "metadata": {
+      "source": "knowledge/experience",
+      "title": "Experience",
+      "type": "experience",
+      "url": "/experience",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/experience (experience)\nTitle: Experience\nURL: /experience\nContent Chunk:\nand computer vision models to map and classify topographical structures on lunar satellite images.\n- **Ravi Chat Agent RAG Pipeline:** Designed the custom RAG pipeline for this portfolio utilizing FAISS for local semantic index lookup and Gemini 2.0 API for reasoning and streamed outputs.",
+    "metadata": {
+      "source": "knowledge/experience",
+      "title": "Experience",
+      "type": "experience",
+      "url": "/experience",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/profile (profile)\nTitle: Profile\nURL: /about\nContent Chunk:\n# Profile: Ravindi Gunasekara\n\nRavindi Gunasekara is an aspiring AI, Machine Learning, and Computer Vision Engineer. She is currently a final-year undergraduate student studying Computer Science with AI at the National Institute of Business Management (NIBM).",
+    "metadata": {
+      "source": "knowledge/profile",
+      "title": "Profile",
+      "type": "profile",
+      "url": "/about",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/profile (profile)\nTitle: Profile\nURL: /about\nContent Chunk:\nstudent studying Computer Science with AI at the National Institute of Business Management (NIBM).\n## Professional Goal\nTo design and build state-of-the-art AI systems that bridge the gap between academic research and real-world deployment, particularly in Computer Vision, Healthcare, Space Tech, and Multimodal AI.",
+    "metadata": {
+      "source": "knowledge/profile",
+      "title": "Profile",
+      "type": "profile",
+      "url": "/about",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/profile (profile)\nTitle: Profile\nURL: /about\nContent Chunk:\nreal-world deployment, particularly in Computer Vision, Healthcare, Space Tech, and Multimodal AI.\n## Academic Status\n- Institution: National Institute of Business Management (NIBM)\n- Degree: BSc (Hons) Computing (Specializing in Artificial Intelligence)\n- Year: Final Year Undergraduate",
+    "metadata": {
+      "source": "knowledge/profile",
+      "title": "Profile",
+      "type": "profile",
+      "url": "/about",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/profile (profile)\nTitle: Profile\nURL: /about\nContent Chunk:\nBSc (Hons) Computing (Specializing in Artificial Intelligence)\n- Year: Final Year Undergraduate\n## Core Competencies\n- Neural Networks & Deep Learning architectures (CNNs, Transformers)\n- Image classification, detection, and segmentation\n- Automated RAG pipelines and Agentic AI\n- Time-series modeling and predictive analytics",
+    "metadata": {
+      "source": "knowledge/profile",
+      "title": "Profile",
+      "type": "profile",
+      "url": "/about",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/skills (skills)\nTitle: Skills\nURL: /skills\nContent Chunk:\n# Skills: Ravindi Gunasekara\n\nRavindi has a comprehensive technical skillset spanning artificial intelligence, machine learning, and full-stack software development.\n\n## Programming Languages\n- Python (Expert for AI/ML development)\n- JavaScript & TypeScript (Advanced for frontend development)\n- C++ (Intermediate)\n- Java (Intermediate)",
+    "metadata": {
+      "source": "knowledge/skills",
+      "title": "Skills",
+      "type": "skills",
+      "url": "/skills",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/skills (skills)\nTitle: Skills\nURL: /skills\nContent Chunk:\n& TypeScript (Advanced for frontend development)\n- C++ (Intermediate)\n- Java (Intermediate)\n## AI, Machine Learning, and Computer Vision\n- **Frameworks:** PyTorch, TensorFlow, Keras, Scikit-Learn\n- **Computer Vision:** OpenCV, CNN architectures, YOLO, Vision Transformers (ViTs), segmentation models\n- **RAG & Agents:** LangChain, Vector Databases (FAISS), FastAPI integration, Prompt Engineering",
+    "metadata": {
+      "source": "knowledge/skills",
+      "title": "Skills",
+      "type": "skills",
+      "url": "/skills",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/skills (skills)\nTitle: Skills\nURL: /skills\nContent Chunk:\n**RAG & Agents:** LangChain, Vector Databases (FAISS), FastAPI integration, Prompt Engineering\n## Web Development & DevOps\n- **Frontend:** Next.js (14+), React, Tailwind CSS, HTML5, CSS3\n- **Backend:** FastAPI, RESTful APIs, Python-based servers\n- **Tools & Deployment:** Git/GitHub, Docker, Vercel, Railway, AWS",
+    "metadata": {
+      "source": "knowledge/skills",
+      "title": "Skills",
+      "type": "skills",
+      "url": "/skills",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\n---\ntitle: AML_CANCER_CLASSIFICATION\ntype: project\nclassification: PORTFOLIO_PROJECT\nlast_commit: ebe9ef2e24337532e345d3229461421aa8bc81ab\n---\n\n# AML Cancer Classification using Multimodal Machine Learning\n\n## Executive Summary\nThis repository contains a end-to-end multimodal machine learning system for classifying Acute Myeloid Leukemia (AML) genetic subtypes. The system combines morphological features extracted from single-cell peripheral blood smear microscopy images with 15 clinical laboratory differential count measurements.",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\nblood smear microscopy images with 15 clinical laboratory differential count measurements.\nThe solution extracts deep feature representations using pretrained Convolutional Neural Network (CNN) backbones (ResNet50, MobileNetV2, EfficientNetB0), aggregates image features to the patient level, applies Dimensionality Reduction via Principal Component Analysis (PCA), and concatenates them with normalized clinical lab features. The combined multimodal feature matrix is classified using a tuned XGBoost model. The final application includes a multi-page Streamlit dashboard featuring an inference pipeline and an AI chatbot powered by the Groq API (`llama-3.1-8b-instant`).\n\nVERIFIED (Source: `README.md`, `02_featureExtraction.ipynb`, `03_imageBranchComparison.ipynb`, `05_finalModel.ipynb`, `app.py`, `pages/prediction.py`)\n\n---\n\n## Dataset & Target Classes",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\n`05_finalModel.ipynb`, `app.py`, `pages/prediction.py`)\n\n---\n\n## Dataset & Target Classes\n### Source & Structure\n- **Dataset**: TCIA AML-Cytomorphology (`AML-Cytomorphology_MLL_Helmholtz`) dataset (Hehr et al., 2023). VERIFIED (Source: `README.md`, `pages/about.py`)\n- **Total Images**: 81,220 microscopy blood smear `.tif` images (~430 images per patient). VERIFIED (Source: `02_featureExtraction.ipynb`, `pages/about.py`)\n- **Total Patients**: 189 patients. VERIFIED (Source: `02_featureExtraction.ipynb`, `03_imageBranchComparison.ipynb`)",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\n189 patients. VERIFIED (Source: `02_featureExtraction.ipynb`, `03_imageBranchComparison.ipynb`)\n### Class Map & Patient Distribution\nThe classification task covers 5 distinct classes:\n1. `0 - Control`: Healthy / non-malignant controls (60 patients, 20,305 images) VERIFIED (Source: `02_featureExtraction.ipynb`, `03_imageBranchComparison.ipynb`)\n2. `1 - NPM1`: Nucleophosmin 1 mutation (36 patients, 17,715 images) VERIFIED (Source: `02_featureExtraction.ipynb`, `03_imageBranchComparison.ipynb`)\n3. `2 - PML_RARA`: Acute Promyelocytic Leukemia (24 patients, 11,585 images) VERIFIED (Source: `02_featureExtraction.ipynb`, `03_imageBranchComparison.ipynb`)\n4. `3 - RUNX1_RUNX1T1`: t(8;21) translocation AML (32 patients, 14,403 images) VERIFIED (Source: `02_featureExtraction.ipynb`, `03_imageBranchComparison.ipynb`)\n5. `4 - CBFB_MYH11`: Core Binding Factor AML / inv(16) (37 patients, 17,212 images) VERIFIED (Source: `02_featureExtraction.ipynb`, `03_imageBranchComparison.ipynb`)\n\n---\n\n## Technical Architecture & Pipeline",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\n`03_imageBranchComparison.ipynb`)\n\n---\n\n## Technical Architecture & Pipeline\n```\n[ Blood Smear Images (.tif) ] ---> ResNet50 Feature Extractor (2048-dim) ---> Patient Mean Aggregation ---> StandardScaler + PCA\n                                                                                                                   |\n                                                                                                                   v\n                                                                                                         [ Concatenate (45-dim) ] ---> XGBoost Classifier ---> 5-Class Prediction\n                                                                                                                   ^\n                                                                                                                   |\n[ 15 Clinical Lab Features ] --------------------------------------------------------------------> StandardScaler\n```\nVERIFIED (Source: `05_finalModel.ipynb`, `app.py`, `pages/about.py`, `pages/prediction.py`)",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\n(Source: `05_finalModel.ipynb`, `app.py`, `pages/about.py`, `pages/prediction.py`)\n### 1. Image Processing Branch\n- **Input Preprocessing**: Images resized to $224 \\times 224 \\times 3$ and passed through model-specific preprocessing function (`resnet_preprocess`, `mobilenet_preprocess`, `efficientnet_preprocess`). VERIFIED (Source: `02_featureExtraction.ipynb`)\n- **Feature Extraction**:\n  - `ResNet50`: Global Average Pooling output $\\rightarrow 2048$ dimensions per image. VERIFIED (Source: `02_featureExtraction.ipynb`)\n  - `MobileNetV2`: Global Average Pooling output $\\rightarrow 1280$ dimensions per image. VERIFIED (Source: `02_featureExtraction.ipynb`)\n  - `EfficientNetB0`: Global Average Pooling output $\\rightarrow 1280$ dimensions per image. VERIFIED (Source: `02_featureExtraction.ipynb`)\n- **Patient-Level Aggregation**: Takes the arithmetic mean across all image vectors belonging to a given patient ID, compressing 81,220 image vectors into 189 patient vectors. VERIFIED (Source: `03_imageBranchComparison.ipynb`, `05_finalModel.ipynb`)",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\n189 patient vectors. VERIFIED (Source: `03_imageBranchComparison.ipynb`, `05_finalModel.ipynb`)\n- **Scaling & Dimensionality Reduction**: `StandardScaler` followed by `PCA` set to preserve 95% of explained variance (reducing 2048 image dimensions to ~30–44 components). VERIFIED (Source: `03_imageBranchComparison.ipynb`, `05_finalModel.ipynb`, `pages/about.py`)\n\n### 2. Clinical Processing Branch\n- **Input Features (15 Total)**: `sex_1f_2m`, `age`, `leucocytes_per_ul`, `pb_myeloblast`, `pb_promyelocyte`, `pb_myelocyte`, `pb_metamyelocyte`, `pb_neutrophil_band`, `pb_neutrophil_segmented`, `pb_eosinophil`, `pb_basophil`, `pb_monocyte`, `pb_lymph_typ`, `pb_lymph_atyp_react`, `pb_other`. VERIFIED (Source: `05_finalModel.ipynb`, `06_prediction.ipynb`, `pages/prediction.py`)\n- **Normalization**: Standardized using `StandardScaler`. VERIFIED (Source: `05_finalModel.ipynb`, `pages/prediction.py`)",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\nusing `StandardScaler`. VERIFIED (Source: `05_finalModel.ipynb`, `pages/prediction.py`)\n### 3. Feature Fusion & Classifier\n- **Fusion**: Feature concatenation of PCA-transformed image vector + standardized clinical vector. VERIFIED (Source: `05_finalModel.ipynb`, `pages/prediction.py`)\n- **Class Imbalance Handling**: Computed sample weights using `compute_sample_weight(class_weight=\"balanced\", y=y_train)` passed during XGBoost training. VERIFIED (Source: `03_imageBranchComparison.ipynb`, `05_finalModel.ipynb`)\n- **Final Model Hyperparameters**:\n  - Algorithm: `XGBClassifier`\n  - Objective: `multi:softprob` (5 classes)\n  - `n_estimators`: 500\n  - `max_depth`: 5\n  - `learning_rate`: 0.03\n  - `subsample`: 0.6\n  - `colsample_bytree`: 0.6\n  - `gamma`: 0.5\n  - `min_child_weight`: 3\n  - Evaluation Metric: `mlogloss`\n  VERIFIED (Source: `05_finalModel.ipynb`)\n\n---\n\n## Experimental Results & Performance",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\n`mlogloss`\n  VERIFIED (Source: `05_finalModel.ipynb`)\n\n---\n\n## Experimental Results & Performance\n### 1. CNN Backbone Comparison (Image Branch Only, Patient-Level Aggregation)\nTested on an 80/20 stratified split (151 train patients, 38 test patients) using XGBoost (`n_estimators=200`, `max_depth=4`, `learning_rate=0.05`):\n\n| Backbone | Dimensions | PCA Dimensions (95% Var) | Test Accuracy | Weighted F1 | Macro F1 | Execution Time |\n|---|---|---|---|---|---|---|\n| **ResNet50** | 2048 | 44 | **76.32%** | **0.7481** | **0.7064** | 1.01s |\n| **MobileNetV2** | 1280 | 42 | 73.68% | 0.7322 | 0.6860 | 0.95s |\n| **EfficientNetB0** | 1280 | 44 | 65.79% | 0.6509 | 0.5967 | 0.99s |\n\nVERIFIED (Source: `03_imageBranchComparison.ipynb`)\n\n### 2. Downstream Classifier Comparison (5-Fold Stratified Cross-Validation on Multimodal Data)",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\n2. Downstream Classifier Comparison (5-Fold Stratified Cross-Validation on Multimodal Data)\n| Model | CV Accuracy | CV Macro F1 | CV Weighted F1 | Status |\n|---|---|---|---|---|\n| **XGBoost** | **76.84%** | **72.91%** | **76.52%** | **Selected Final Model** |\n| **Random Forest** | 70.86% | 63.09% | 69.61% | Evaluated |\n| **MLP Classifier** | 70.24% | 64.49% | 70.21% | Evaluated |\n\nVERIFIED (Source: `pages/dashboard.py`)\n\n### 3. Final Multimodal Model Test Set Performance (ResNet50 + Clinical + Tuned XGBoost)\n\n- **Overall Test Accuracy**: **84.21%** VERIFIED (Source: `pages/dashboard.py`)\n- **Weighted F1 Score**: **83.89%** VERIFIED (Source: `pages/dashboard.py`)\n- **Macro F1 Score**: **80.72%** VERIFIED (Source: `pages/dashboard.py`)\n- **Test Patients Count**: 38 patients VERIFIED (Source: `pages/dashboard.py`)",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\n**Test Patients Count**: 38 patients VERIFIED (Source: `pages/dashboard.py`)\n#### Per-Class Test Breakdown:\n| Subtype Class | Precision | Recall | F1-Score | Test Support |\n|---|---|---|---|---|\n| **Control** | 0.92 | 1.00 | **0.96** | 12 |\n| **CBFB_MYH11** | 0.89 | 1.00 | **0.94** | 8 |\n| **NPM1** | 0.83 | 0.71 | **0.77** | 7 |\n| **PML_RARA** | 1.00 | 0.60 | **0.75** | 5 |\n| **RUNX1_RUNX1T1** | 0.57 | 0.67 | **0.62** | 6 |\n\nVERIFIED (Source: `pages/dashboard.py`)\n\n#### Confusion Matrix (Held-out Test Set):\n```\nActual \\ Predicted | Control | NPM1 | PML_RARA | RUNX1_RUNX1T1 | CBFB_MYH11\n-------------------|---------|------|----------|---------------|-----------\nControl            |   12    |  0   |    0     |       0       |     0\nNPM1               |    0    |  5   |    0     |       2       |     0\nPML_RARA           |    1    |  0   |    3     |       1       |     0\nRUNX1_RUNX1T1      |    0    |  1   |    0     |       4       |     1\nCBFB_MYH11         |    0    |  0   |    0     |       0       |     8\n```\nVERIFIED (Source: `pages/dashboard.py`)\n\n---",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\n0    |  0   |    0     |       0       |     8\n```\nVERIFIED (Source: `pages/dashboard.py`)\n\n---\n## Web Application & User Interface\n\nThe repository provides a complete Streamlit web application (`app.py` and modular pages in `pages/`):",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\nrepository provides a complete Streamlit web application (`app.py` and modular pages in `pages/`):\n1. **Home (`app.py`)**: System overview, key statistics, pipeline visualization, and subtype classification details. VERIFIED (Source: `app.py`)\n2. **Prediction (`pages/prediction.py`)**: Accepts upload of single/multiple cell `.tif`/`.png`/`.jpg` images per patient, extracts features on-the-fly using Keras ResNet50, collects 15 clinical parameters, executes pipeline transformation, and outputs probability distributions across the 5 AML classes. VERIFIED (Source: `pages/prediction.py`)\n3. **AI Chatbot (`pages/AI_chatbot.py`)**: Integrates with Groq API using `llama-3.1-8b-instant`. Features automatic context injection of the patient's latest prediction results (predicted subtype, confidence, clinical inputs) into the prompt for clinical explanation and interactive Q&A. VERIFIED (Source: `pages/AI_chatbot.py`)",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 12
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\nthe prompt for clinical explanation and interactive Q&A. VERIFIED (Source: `pages/AI_chatbot.py`)\n4. **Dashboard (`pages/dashboard.py`)**: Interactive model performance metrics, per-class bar charts, confusion matrix visualization, and 5-fold cross-validation comparisons. VERIFIED (Source: `pages/dashboard.py`)\n5. **About (`pages/about.py`)**: Project citation, dataset breakdown, methodology overview, team details, and academic disclaimers. VERIFIED (Source: `pages/about.py`)\n6. **Devcontainer Setup (`.devcontainer/devcontainer.json`)**: Docker container config built on `mcr.microsoft.com/devcontainers/python:1-3.11-bookworm` that automatically provisions packages and launches `streamlit run pages/dashboard.py` on port 8501 upon attachment. VERIFIED (Source: `.devcontainer/devcontainer.json`)\n\n---\n\n## Key Technologies Used",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 13
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\nattachment. VERIFIED (Source: `.devcontainer/devcontainer.json`)\n\n---\n\n## Key Technologies Used\n- **Deep Learning / Computer Vision**: TensorFlow, Keras (`ResNet50`, `MobileNetV2`, `EfficientNetB0`), Pillow VERIFIED (Source: `02_featureExtraction.ipynb`, `06_prediction.ipynb`, `requirements.txt`)\n- **Machine Learning & Fusion**: XGBoost (`XGBClassifier`), Scikit-learn (`StandardScaler`, `PCA`, `train_test_split`, `f1_score`, `compute_sample_weight`), Joblib VERIFIED (Source: `03_imageBranchComparison.ipynb`, `05_finalModel.ipynb`, `requirements.txt`)\n- **Data Manipulation & Analysis**: NumPy, Pandas VERIFIED (Source: `02_featureExtraction.ipynb`, `03_imageBranchComparison.ipynb`, `requirements.txt`)\n- **Frontend & Deployment**: Streamlit, Requests (Groq API client), VS Code Devcontainers VERIFIED (Source: `app.py`, `pages/AI_chatbot.py`, `.devcontainer/devcontainer.json`, `requirements.txt`)\n\n---\n\n## Team & Provenance",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 14
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/AML_CANCER_CLASSIFICATION (project_detail)\nTitle: Aml_Cancer_Classification\nURL: /projects/AML_CANCER_CLASSIFICATION\nContent Chunk:\n`.devcontainer/devcontainer.json`, `requirements.txt`)\n\n---\n\n## Team & Provenance\n- **Repository Owner**: Ravindi Dhananjana (`ravindidhananjana`) VERIFIED (Source: GitHub metadata and `02_featureExtraction.ipynb` executionInfo)\n- **Project Authors**:\n  - Yathindu Jayawardhane VERIFIED (Source: `README.md`)\n  - Ravindi Gunasekara / Ravindi Dhananjana VERIFIED (Source: `README.md`, `02_featureExtraction.ipynb`)\n  - Sindupa Ekanayake VERIFIED (Source: `README.md`)\n  - Sudara Jayalath VERIFIED (Source: `README.md`)\n- **Institution / Program**: NIBM KIC · Computer Science with AI (Team Code: `KIC-HNDCSAI-252F`) VERIFIED (Source: `pages/about.py`, `app.py`)",
+    "metadata": {
+      "source": "knowledge/projects/AML_CANCER_CLASSIFICATION",
+      "title": "Aml_Cancer_Classification",
+      "type": "project_detail",
+      "url": "/projects/AML_CANCER_CLASSIFICATION",
+      "chunk_index": 15
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot (project_detail)\nTitle: Autonomous Garbage Collecting Smart Monitoring Robot\nURL: /projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot\nContent Chunk:\n---\ntitle: Autonomous-Garbage-Collecting-Smart-Monitoring-Robot\ntype: project\nclassification: PORTFOLIO_PROJECT\nlast_commit: 46c0f7d3225a5aa98a80de25adf82594082f7c2d\n---\n\n# Autonomous Garbage Collecting & Smart Monitoring Robot\n\n## 📌 Overview\n\nThe **Autonomous Garbage Collecting & Smart Monitoring Robot** is an IoT-enabled robotic waste management system designed to automate garbage collection and real-time bin status monitoring. It combines embedded systems hardware (ESP32), multi-sensor navigation and safety routines, touchless lid mechanisms, and a cloud-connected web interface powered by Firebase Realtime Database and Chart.js.\n\nVERIFIED (Source: `README.md`, `Garbage Web/script.js`)\n\n---\n\n## 🔧 Architecture & Hardware Components\n\nThe system relies on an ESP32 microcontroller acting as the central unit for processing sensor inputs, driving motor hardware, handling Bluetooth control commands, and communicating over Wi-Fi to Firebase.",
+    "metadata": {
+      "source": "knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "title": "Autonomous Garbage Collecting Smart Monitoring Robot",
+      "type": "project_detail",
+      "url": "/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot (project_detail)\nTitle: Autonomous Garbage Collecting Smart Monitoring Robot\nURL: /projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot\nContent Chunk:\nmotor hardware, handling Bluetooth control commands, and communicating over Wi-Fi to Firebase.\n* **Microcontroller:** ESP32 (NodeMCU) with integrated Wi-Fi & Bluetooth capability VERIFIED (Source: `README.md`)\n* **Sensors:**\n  * Ultrasonic Sensors: Used for front obstacle detection and real-time garbage fill level measurement VERIFIED (Source: `README.md`)\n  * IR Sensors: Used for line-following navigation along fixed target paths VERIFIED (Source: `README.md`)\n* **Actuators & Drivers:**\n  * Servo Motor: Manages touchless bin lid opening and closing operations VERIFIED (Source: `README.md`)\n  * Motor Driver Module & Hobby Gear Motors: Controls wheel propulsion and direction VERIFIED (Source: `README.md`)\n* **Power Supply:** Dedicated Power Supply Unit VERIFIED (Source: `README.md`)\n\n---\n\n## 💻 Software & Technology Stack",
+    "metadata": {
+      "source": "knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "title": "Autonomous Garbage Collecting Smart Monitoring Robot",
+      "type": "project_detail",
+      "url": "/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot (project_detail)\nTitle: Autonomous Garbage Collecting Smart Monitoring Robot\nURL: /projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot\nContent Chunk:\nDedicated Power Supply Unit VERIFIED (Source: `README.md`)\n\n---\n\n## 💻 Software & Technology Stack\n* **Embedded Language / Environment:** C++ / Arduino IDE VERIFIED (Source: Repository Metadata, `README.md`)\n* **Wireless Protocols:** ESP32 Bluetooth Serial, Wi-Fi IEEE 802.11 VERIFIED (Source: `README.md`)\n* **Backend / Database:** Firebase Realtime Database VERIFIED (Source: `Garbage Web/script.js`, `README.md`)\n* **Frontend Web Dashboard:** Vanilla JavaScript (ES6 Modules), HTML5, CSS3, Chart.js VERIFIED (Source: `Garbage Web/script.js`)\n\n---\n\n## 🚀 Key Features & Implementation Details\n\n### 1. Line-Following & Target-Based Navigation\n* Receives target destination commands wirelessly over ESP32 Bluetooth Serial (e.g., Command 1 $\\rightarrow$ Location A, Command 2 $\\rightarrow$ Location B). VERIFIED (Source: `README.md`)\n* Executes target navigation logic using IR sensor array line-following mechanisms once a destination command is received. VERIFIED (Source: `README.md`)",
+    "metadata": {
+      "source": "knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "title": "Autonomous Garbage Collecting Smart Monitoring Robot",
+      "type": "project_detail",
+      "url": "/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot (project_detail)\nTitle: Autonomous Garbage Collecting Smart Monitoring Robot\nURL: /projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot\nContent Chunk:\nline-following mechanisms once a destination command is received. VERIFIED (Source: `README.md`)\n### 2. Obstacle Detection & Safety Routines\n* Ultrasonic sensors continuously monitor forward clearing distance. VERIFIED (Source: `README.md`)\n* If an obstacle enters range, the robot halts, triggers avoidance logic, and resumes its path once clear. VERIFIED (Source: `README.md`)\n* Web dashboard categorizes distance thresholds: Safe ($> 30\\text{ cm}$), Caution ($15\\text{ cm} - 30\\text{ cm}$), and Danger ($< 15\\text{ cm}$). VERIFIED (Source: `Garbage Web/script.js`)\n\n### 3. Touchless Lid Mechanism & Bin Level Detection\n* Integrated hand detection triggers a servo motor to open the bin lid without direct physical contact. VERIFIED (Source: `README.md`)\n* Bin fill level is tracked via an ultrasonic sensor mounted inside the container, displayed as a fill percentage ($0\\% - 100\\%$) categorized into status levels: EMPTY ($<30\\%$), HALF ($30\\%-80\\%$), and FULL ($\\ge 80\\%$). VERIFIED (Source: `Garbage Web/script.js`)",
+    "metadata": {
+      "source": "knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "title": "Autonomous Garbage Collecting Smart Monitoring Robot",
+      "type": "project_detail",
+      "url": "/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot (project_detail)\nTitle: Autonomous Garbage Collecting Smart Monitoring Robot\nURL: /projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot\nContent Chunk:\n($<30\\%$), HALF ($30\\%-80\\%$), and FULL ($\\ge 80\\%$). VERIFIED (Source: `Garbage Web/script.js`)\n### 4. Real-Time Cloud Monitoring Web Dashboard\n* Synchronizes real-time status attributes via Firebase Realtime Database listeners (`onValue` hooks). VERIFIED (Source: `Garbage Web/script.js`)\n* Monitored cloud data points:\n  * `dustbin/garbageLevel` (Garbage fill percentage)\n  * `dustbin/lidStatus` (Lid open/close status)\n  * `robot/state` (Current robotic state)\n  * `robot/target` (Active destination command)\n  * `robot/obstacleDistance` (Distance to nearest obstacle)\n  * `dustbin/history` (Historical fill level records)\n* Visualizes historical fill level records using Chart.js line graph, rendering up to the 30 most recent timestamped entries. VERIFIED (Source: `Garbage Web/script.js`)\n\n---\n\n## 🔄 Dual Communication Architecture\n\nThe system utilizes a hybrid, dual-layer communication model:",
+    "metadata": {
+      "source": "knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "title": "Autonomous Garbage Collecting Smart Monitoring Robot",
+      "type": "project_detail",
+      "url": "/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot (project_detail)\nTitle: Autonomous Garbage Collecting Smart Monitoring Robot\nURL: /projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot\nContent Chunk:\n🔄 Dual Communication Architecture\n\nThe system utilizes a hybrid, dual-layer communication model:\n1. **Bluetooth Layer (Local Control):** Direct, short-range channel between user devices and ESP32 for command delivery, destination selection, and manual override capabilities. VERIFIED (Source: `README.md`)\n2. **Wi-Fi Layer (Cloud Telemetry):** Long-range continuous telemetry channel pushing live metrics to Firebase Realtime Database for web monitoring. VERIFIED (Source: `README.md`)\n\n---\n\n## 🧪 Experiments, Results & Metrics",
+    "metadata": {
+      "source": "knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "title": "Autonomous Garbage Collecting Smart Monitoring Robot",
+      "type": "project_detail",
+      "url": "/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot (project_detail)\nTitle: Autonomous Garbage Collecting Smart Monitoring Robot\nURL: /projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot\nContent Chunk:\nfor web monitoring. VERIFIED (Source: `README.md`)\n\n---\n\n## 🧪 Experiments, Results & Metrics\n* **Quantitative Distance Thresholds:** Safe ($>30\\text{ cm}$), Caution ($>15\\text{ cm}$ and $\\le 30\\text{ cm}$), Danger ($\\le 15\\text{ cm}$). VERIFIED (Source: `Garbage Web/script.js`)\n* **Fill Status Thresholds:** Empty ($<30\\%$), Half ($30\\% - 79\\%$), Full ($\\ge 80\\%$). VERIFIED (Source: `Garbage Web/script.js`)\n* **Historical Data Retention:** Visualized up to the 30 most recent historical records ordered chronologically. VERIFIED (Source: `Garbage Web/script.js`)\n* **Empirical Performance Benchmarks:** UNKNOWN (No explicit latency or accuracy experiment logs are recorded in the repository files provided).\n\n---\n\n## 🛠 Challenges & Inferred Solutions",
+    "metadata": {
+      "source": "knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "title": "Autonomous Garbage Collecting Smart Monitoring Robot",
+      "type": "project_detail",
+      "url": "/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot (project_detail)\nTitle: Autonomous Garbage Collecting Smart Monitoring Robot\nURL: /projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot\nContent Chunk:\nlogs are recorded in the repository files provided).\n\n---\n\n## 🛠 Challenges & Inferred Solutions\n* **Challenge:** Maintaining reliable short-range command latency while concurrently streaming telemetry to cloud infrastructure.\n  * **Inferred Solution:** Division of responsibilities across Bluetooth Serial for localized command parsing and Wi-Fi for asynchronous database sync. INFERRED (Based on `README.md`)\n* **Challenge:** Preventing collision during dynamic autonomous execution along predefined lines.\n  * **Inferred Solution:** Priority interrupt logic where obstacle detection overrides normal IR line-following loops. INFERRED (Based on `README.md`)\n\n---\n\n## 🔮 Limitations & Future Improvements",
+    "metadata": {
+      "source": "knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "title": "Autonomous Garbage Collecting Smart Monitoring Robot",
+      "type": "project_detail",
+      "url": "/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot (project_detail)\nTitle: Autonomous Garbage Collecting Smart Monitoring Robot\nURL: /projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot\nContent Chunk:\nline-following loops. INFERRED (Based on `README.md`)\n\n---\n\n## 🔮 Limitations & Future Improvements\n* Path planning is constrained to IR-line pathing rather than spatial mapping. VERIFIED (Source: `README.md`)\n* **Planned Upgrades:**\n  * Path planning algorithms (A* or SLAM concepts). VERIFIED (Source: `README.md`)\n  * Computer vision integration via camera module for waste type classification. VERIFIED (Source: `README.md`)\n  * Machine learning-based garbage fill rate forecasting. VERIFIED (Source: `README.md`)\n  * Dashboard hosting via Firebase Hosting and native mobile app interface. VERIFIED (Source: `README.md`)",
+    "metadata": {
+      "source": "knowledge/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "title": "Autonomous Garbage Collecting Smart Monitoring Robot",
+      "type": "project_detail",
+      "url": "/projects/Autonomous-Garbage-Collecting-Smart-Monitoring-Robot",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/diabetes-prediction (project_detail)\nTitle: Diabetes Prediction\nURL: /projects/diabetes-prediction\nContent Chunk:\n---\ntitle: diabetes-prediction\ntype: project\nclassification: PORTFOLIO_PROJECT\nlast_commit: 1d554f26424d7cd19e769bbed02c1e5882bb973f\n---\n\n# Diabetes Prediction App\n\n## Executive Summary\nThe **Diabetes Prediction App** is an end-to-end Machine Learning web application designed to assess the likelihood of diabetes in patients based on key clinical parameters VERIFIED (Source: README.md). Built using Python and Streamlit, the system integrates a pre-trained Random Forest Classifier to process patient measurements and display probability-based predictions via an interactive web interface VERIFIED (Source: README.md, app.py).\n\n---\n\n## Technical Stack & Dependencies",
+    "metadata": {
+      "source": "knowledge/projects/diabetes-prediction",
+      "title": "Diabetes Prediction",
+      "type": "project_detail",
+      "url": "/projects/diabetes-prediction",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/diabetes-prediction (project_detail)\nTitle: Diabetes Prediction\nURL: /projects/diabetes-prediction\nContent Chunk:\nweb interface VERIFIED (Source: README.md, app.py).\n\n---\n\n## Technical Stack & Dependencies\n- **Language:** Python 3.9 VERIFIED (Source: README.md)\n- **Framework & UI:** Streamlit (`1.25.0`) VERIFIED (Source: requirements.txt, app.py)\n- **Machine Learning & Data Science:** `scikit-learn` (`1.7.2`), `xgboost` (`3.0.5`), `pandas` (`2.3.2`), `numpy` (`2.3.3`), `joblib` (`1.5.2`) VERIFIED (Source: requirements.txt)\n- **Visualization:** `matplotlib` (`3.10.6`), `seaborn` (`0.13.2`) VERIFIED (Source: requirements.txt)\n\n---\n\n## Dataset & Feature Engineering",
+    "metadata": {
+      "source": "knowledge/projects/diabetes-prediction",
+      "title": "Diabetes Prediction",
+      "type": "project_detail",
+      "url": "/projects/diabetes-prediction",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/diabetes-prediction (project_detail)\nTitle: Diabetes Prediction\nURL: /projects/diabetes-prediction\nContent Chunk:\n`seaborn` (`0.13.2`) VERIFIED (Source: requirements.txt)\n\n---\n\n## Dataset & Feature Engineering\n- **Dataset Source:** Kaggle Pima Indians Diabetes Dataset VERIFIED (Source: README.md).\n- **Target Variable:** `Outcome` (0: Non-diabetic, 1: Diabetic) VERIFIED (Source: README.md).\n- **Features Used:**\n  1. `Pregnancies`: Number of times pregnant VERIFIED (Source: README.md, app.py)\n  2. `Glucose`: Plasma glucose concentration VERIFIED (Source: README.md, app.py)\n  3. `BloodPressure`: Diastolic blood pressure VERIFIED (Source: README.md, app.py)\n  4. `SkinThickness`: Triceps skin fold thickness VERIFIED (Source: README.md, app.py)\n  5. `Insulin`: 2-Hour serum insulin VERIFIED (Source: README.md, app.py)\n  6. `BMI`: Body mass index VERIFIED (Source: README.md, app.py)\n  7. `DiabetesPedigreeFunction`: Diabetes pedigree function VERIFIED (Source: README.md, app.py)\n  8. `Age`: Age in years VERIFIED (Source: README.md, app.py)\n- **Data Preprocessing:** Feature scaling applied via `StandardScaler` to handle normalization across differing continuous ranges VERIFIED (Source: README.md).",
+    "metadata": {
+      "source": "knowledge/projects/diabetes-prediction",
+      "title": "Diabetes Prediction",
+      "type": "project_detail",
+      "url": "/projects/diabetes-prediction",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/diabetes-prediction (project_detail)\nTitle: Diabetes Prediction\nURL: /projects/diabetes-prediction\nContent Chunk:\nto handle normalization across differing continuous ranges VERIFIED (Source: README.md).\n---\n\n## Model Architecture & Experiments\n\n- **Selected Production Model:** Random Forest Classifier VERIFIED (Source: README.md).\n- **Configured Hyperparameters:**\n  - `n_estimators`: 200 VERIFIED (Source: README.md)\n  - `min_samples_split`: 10 VERIFIED (Source: README.md)\n  - `min_samples_leaf`: 1 VERIFIED (Source: README.md)\n  - `class_weight`: `'balanced'` VERIFIED (Source: README.md)\n- **Model Alternatives Explored:** Logistic Regression, K-Nearest Neighbors (KNN), and XGBoost were experimented with during model selection; Random Forest yielded the optimal production balance VERIFIED (Source: README.md).\n\n---\n\n## Model Evaluation & Performance Results",
+    "metadata": {
+      "source": "knowledge/projects/diabetes-prediction",
+      "title": "Diabetes Prediction",
+      "type": "project_detail",
+      "url": "/projects/diabetes-prediction",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/diabetes-prediction (project_detail)\nTitle: Diabetes Prediction\nURL: /projects/diabetes-prediction\nContent Chunk:\nproduction balance VERIFIED (Source: README.md).\n\n---\n\n## Model Evaluation & Performance Results\nEvaluated on a held-out test dataset prioritizing healthcare screening relevance:\n- **Test Accuracy:** ~75% VERIFIED (Source: README.md)\n- **Recall (Diabetic class):** ~73% VERIFIED (Source: README.md)\n- **Precision (Diabetic class):** ~65% VERIFIED (Source: README.md)\n- **Evaluation Tools:** Confusion Matrix and Classification Report VERIFIED (Source: README.md).\n\n---\n\n## Web Application Implementation",
+    "metadata": {
+      "source": "knowledge/projects/diabetes-prediction",
+      "title": "Diabetes Prediction",
+      "type": "project_detail",
+      "url": "/projects/diabetes-prediction",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/diabetes-prediction (project_detail)\nTitle: Diabetes Prediction\nURL: /projects/diabetes-prediction\nContent Chunk:\nand Classification Report VERIFIED (Source: README.md).\n\n---\n\n## Web Application Implementation\nThe web interface is implemented in `app.py` using Streamlit:\n- Loads the trained pipeline (`rf_model.pkl`) via `joblib` VERIFIED (Source: app.py).\n- Constructs input fields for patient clinical indicators with predefined range boundaries and defaults VERIFIED (Source: app.py).\n- Processes inputs as a Pandas DataFrame matching target feature names (`FEATURE_NAMES`) VERIFIED (Source: app.py).\n- Calculates output class probability using `model.predict_proba()` VERIFIED (Source: app.py).\n- Displays visual diagnostic status:\n  - **Diabetic:** Highlighted red banner if probability $\\ge 0.5$ VERIFIED (Source: app.py).\n  - **Non-Diabetic:** Highlighted green banner if probability $< 0.5$ VERIFIED (Source: app.py).\n\n---\n\n## Project Structure",
+    "metadata": {
+      "source": "knowledge/projects/diabetes-prediction",
+      "title": "Diabetes Prediction",
+      "type": "project_detail",
+      "url": "/projects/diabetes-prediction",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/diabetes-prediction (project_detail)\nTitle: Diabetes Prediction\nURL: /projects/diabetes-prediction\nContent Chunk:\ngreen banner if probability $< 0.5$ VERIFIED (Source: app.py).\n\n---\n\n## Project Structure\n```bash\ndiabetes-prediction/\n│\n├─ app.py              # Streamlit web app\n├─ rf_model.pkl        # Trained Random Forest model (referenced)\n├─ scaler.pkl          # Feature scaler (referenced)\n├─ diabetes.ipynb      # Model training & evaluation notebook (referenced)\n├─ requirements.txt    # Python dependencies\n└─ README.md           # Project documentation\n```\nVERIFIED (Source: README.md)\n\n---\n\n## Author's Key Contributions & Key Takeaways\n\n- Developed an end-to-end machine learning pipeline from raw dataset preprocessing to interactive app deployment VERIFIED (Source: README.md, app.py).\n- Addressed class imbalance using balanced class weighting (`class_weight='balanced'`) during Random Forest classifier training VERIFIED (Source: README.md).\n- Implemented real-time prediction capabilities via Streamlit web interface INFERRED (Source: app.py, README.md).",
+    "metadata": {
+      "source": "knowledge/projects/diabetes-prediction",
+      "title": "Diabetes Prediction",
+      "type": "project_detail",
+      "url": "/projects/diabetes-prediction",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\n---\ntitle: final-mbbs-clinical-simulator\ntype: project\nclassification: PORTFOLIO_PROJECT\nlast_commit: d0d3d9f297e252341f85a750bd7554abac24efee\n---\n\n# LK Final MBBS Clinical Case Simulator\n\n## Executive Summary\nThe **LK Final MBBS Clinical Case Simulator** is an interactive, AI-powered medical examination training platform built for Sri Lankan medical students preparing for their Final MBBS Clinical Examinations (Long and Short Cases) VERIFIED (Source: `README.md`). The application provides a dual-phase simulation: first acting as a patient in a Sri Lankan teaching hospital ward who responds in the user's language (Sinhala, Singlish, or English), and second acting as an external examiner who evaluates the history taken by the student and conducts an interactive viva VERIFIED (Source: `README.md`, `app.py`).\n\n---\n\n## Technical Architecture & Implementation Details",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\nVERIFIED (Source: `README.md`, `app.py`).\n\n---\n\n## Technical Architecture & Implementation Details\n### System Overview\nThe system is constructed as a single-page interactive application using **Streamlit** and the **Google GenAI SDK** using the `gemini-3.1-flash-lite` model VERIFIED (Source: `README.md`, `app.py`).\n\n```\n[Student Input (Text/Voice via Web Speech API)]\n                        │\n                        ▼\n┌─────────────────────────────────────────────────┐\n│               Streamlit UI Engine               │\n└───────────────────────┬─────────────────────────┘\n                        │\n            ┌───────────┴───────────┐\n            ▼                       ▼\n   [Phase 1: PATIENT_SIM]   [Phase 2: EXAMINER_REVIEW]\n            │                       │\n            ▼                       ▼\n  Google GenAI API         Google GenAI API\n  (Patient Instruction)    (Examiner Critique & Viva)\n            │                       │\n            └───────────┬───────────┘\n                        ▼\n      [UI Response Render & Session State]\n```\n\n### Core Architecture Components",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\n▼\n      [UI Response Render & Session State]\n```\n\n### Core Architecture Components\n1. **State Management & Workflow Engine**\n   - Streamlit session state (`st.session_state`) manages the execution stage (`PATIENT_SIM` vs. `EXAMINER_REVIEW`), selected case details, conversation log, and examiner review status VERIFIED (Source: `app.py`).\n   - Typing **`done`** triggers the phase transition from patient history taking to examiner evaluation VERIFIED (Source: `README.md`, `app.py`).",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\nfrom patient history taking to examiner evaluation VERIFIED (Source: `README.md`, `app.py`).\n2. **Multilingual Speech-to-Text Integration**\n   - Implemented via a native JavaScript injection using Streamlit's `components.v1.html` VERIFIED (Source: `app.py`).\n   - Uses the browser's native **Web Speech API** (`webkitSpeechRecognition`) set to locale `si-LK` to capture Sinhala, Singlish, or English speech VERIFIED (Source: `README.md`, `app.py`).\n   - Automatically populates the chat input textarea, dispatches input events, and triggers an `Enter` keypress for hands-free auto-submission VERIFIED (Source: `README.md`, `app.py`).\n   - Utilizes a persistent DOM check (`setInterval`) and cleans up redundant button instances across Streamlit re-renders VERIFIED (Source: `app.py`).",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\nand cleans up redundant button instances across Streamlit re-renders VERIFIED (Source: `app.py`).\n3. **Master Clinical Syllabus Engine**\n   - Contains a clinical case database structured into 8 major categories spanning the undergraduate clinical syllabus VERIFIED (Source: `README.md`, `app.py`):\n     - **Medicine Long Cases** (CVS, RS, GUT, GIT, Nervous & MS, Endocrine, Systemic, Haematological, Miscellaneous)\n     - **Medicine Short Cases** (CVS, RS, GIT, Infections, Endocrine, Systemic, Nervous & MS, Miscellaneous)\n     - **Surgery Long Cases** (Main, Head & Neck, Chest & Breast, Vascular, GIT, GUT)\n     - **Surgery Short Cases** (Head & Neck, Paediatric Surgery, Malignancies, Orthopaedics, Chest & Breast, Vascular, Abdomen & Genitals, Limbs & Trunk, Miscellaneous)\n     - **Paediatric Long Cases** (CVS, RS, Endocrine, Hematological, GIT, Systemic, GUT, Nervous & MS, Infectious, Miscellaneous)\n     - **Paediatric Short Cases** (CVS, RS, GIT, CNS & MS, Skin, Haematological, Systemic, Neonatal EX)\n     - **Gynecology Cases** (General)\n     - **Obstetrics Cases** (General)",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\nSystemic, Neonatal EX)\n     - **Gynecology Cases** (General)\n     - **Obstetrics Cases** (General)\n   - Diagnostic targets are randomly selected upon loading a new case, displaying only the Exam Category and System/Station to the student while keeping the actual diagnosis hidden VERIFIED (Source: `README.md`, `app.py`).\n\n---\n\n## Dual-Phase AI Simulation & Prompt Engineering",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\nVERIFIED (Source: `README.md`, `app.py`).\n\n---\n\n## Dual-Phase AI Simulation & Prompt Engineering\n### Phase 1: Patient Simulation (`PATIENT_SIM`)\n- **System Instruction Strategy:** The model is instructed to act as a patient in a Sri Lankan Teaching Hospital ward diagnosed with the hidden condition VERIFIED (Source: `app.py`).\n- **Clinical Safeguards:** Strict prompt constraints forbid revealing clinical terms or exact diagnosis names VERIFIED (Source: `app.py`).\n- **Language Mirroring Engine:**\n  - **Sinhala Script:** Responds in colloquial Sinhala script using local ward phrasing (e.g., *\"බඩ රිදෙනවා\"*, *\"කකුල් ඉදිමෙනවා\"*, *\"ක්ලිනික් කාඩ් එක\"*) VERIFIED (Source: `app.py`).\n  - **Singlish (Roman Script):** Responds in natural Singlish (e.g., *\"bada ridenawa\"*, *\"hama duwiliyama hariyala nehe\"*) VERIFIED (Source: `app.py`).\n  - **English:** Responds in simple English with a realistic Sri Lankan persona VERIFIED (Source: `app.py`).",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\nResponds in simple English with a realistic Sri Lankan persona VERIFIED (Source: `app.py`).\n- **Conversational Realism:** Kept intentionally brief, disclosing deep history (medications, social, family) only upon explicit query VERIFIED (Source: `app.py`).",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\ndeep history (medications, social, family) only upon explicit query VERIFIED (Source: `app.py`).\n### Phase 2: Examiner Evaluation & Interactive Viva (`EXAMINER_REVIEW`)\n- **Isolation of Assessment:** The evaluation prompt strips away patient responses and feeds **only the user's questions** into the prompt, forcing the AI examiner to rate the student purely on clinical history-taking strategy VERIFIED (Source: `README.md`, `app.py`).\n- **Structured Feedback Output:**\n  1. Conversational introduction directly addressing the student as \"you\" VERIFIED (Source: `app.py`).\n  2. Positive reinforcement (*\"WHAT YOU DID BRILLIANTLY\"*) VERIFIED (Source: `app.py`).\n  3. Gap analysis and clinical guidance (*\"AREAS TO REFINE & HOW TO FIX THEM\"*) targeting missed questions specific to the hidden diagnosis VERIFIED (Source: `app.py`).\n  4. History-taking score percentage VERIFIED (Source: `app.py`).\n  5. Interactive viva questions (differential diagnoses, bedside/lab tests, physical signs) to transition into discussion VERIFIED (Source: `app.py`).",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\nbedside/lab tests, physical signs) to transition into discussion VERIFIED (Source: `app.py`).\n- **Interactive Viva:** After the initial critique, subsequent user inputs are handled in an ongoing dialogue where the examiner probes clinical reasoning, management plans, and differentials VERIFIED (Source: `README.md`, `app.py`).\n\n---\n\n## UI/UX Design & Styling",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\nplans, and differentials VERIFIED (Source: `README.md`, `app.py`).\n\n---\n\n## UI/UX Design & Styling\n- **Theme & Aesthetics:** Glassmorphic dark layout styled with custom CSS (`Plus Jakarta Sans` font, subtle gradient accents matching Sri Lankan colors `#FF9933` and `#138808`) VERIFIED (Source: `README.md`, `app.py`).\n- **Visual Feedback:**\n  - Pulsing CSS keyframe animation around a stethoscope icon in the sidebar VERIFIED (Source: `README.md`, `app.py`).\n  - History Metrics card with dynamic color shifts (orange to green) tracking questions asked against a baseline threshold of 5 questions VERIFIED (Source: `README.md`, `app.py`).\n  - Dynamic status badges showing active state (`PATIENT INTERVIEW ACTIVE` vs. `EXAMINER REVIEW ACTIVE`) VERIFIED (Source: `app.py`).\n  - Microphone button pulses red when active recording is detected VERIFIED (Source: `app.py`).\n\n---\n\n## Tech Stack & Dependencies",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\nwhen active recording is detected VERIFIED (Source: `app.py`).\n\n---\n\n## Tech Stack & Dependencies\n| Category | Technology | Usage / Purpose |\n|---|---|---|\n| Language | Python 3.11 | Core runtime environment VERIFIED (Source: `.devcontainer/devcontainer.json`, `app.py`) |\n| Web Framework | Streamlit (>= 1.31) | UI application rendering and session handling VERIFIED (Source: `requirements.txt`, `app.py`) |\n| LLM API | `google-genai` SDK | Accessing `gemini-3.1-flash-lite` model VERIFIED (Source: `requirements.txt`, `app.py`) |\n| Speech Recognition | Web Speech API (`webkitSpeechRecognition`) | Embedded browser speech-to-text in JS VERIFIED (Source: `README.md`, `app.py`) |\n| Styling | Vanilla CSS / HTML Injection | Custom glassmorphism, animations, layout overrides VERIFIED (Source: `README.md`, `app.py`) |\n| Dev Environment | Devcontainers / VS Code Codespaces | Pre-configured Python 3.11 Bookworm container VERIFIED (Source: `.devcontainer/devcontainer.json`) |\n\n---\n\n## Key Challenges & Mitigations",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\nVERIFIED (Source: `.devcontainer/devcontainer.json`) |\n\n---\n\n## Key Challenges & Mitigations\n1. **Streamlit Component DOM Destruction on Rerun**\n   - *Problem:* Streamlit re-renders destroy iframe contexts, which previously caused custom microphone DOM buttons to lose click handlers or duplicate on screen VERIFIED (Source: `app.py`).\n   - *Solution:* Implemented explicit removal of existing button instances (`oldBtn.remove()`) and re-binding click listeners to a newly created button element inside a persistent interval loop (`setInterval`) VERIFIED (Source: `app.py`).\n\n2. **Audio Generation Latency Overhead**\n   - *Problem:* Generating AI voice audio (e.g., via Text-to-Speech engines) introduced significant response latency and instability VERIFIED (Source: `README.md`).\n   - *Solution:* Removed text-to-speech dependencies (e.g., `gTTS`), using hands-free voice input combined with instant text responses VERIFIED (Source: `README.md`).",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 12
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\nusing hands-free voice input combined with instant text responses VERIFIED (Source: `README.md`).\n3. **Language Consistency Control**\n   - *Problem:* General LLMs often output formal or book-language Sinhala, which does not reflect hospital ward interactions VERIFIED (Source: `app.py`).\n   - *Solution:* Engineered explicit system prompts detailing ward-specific colloquial Sinhala phrases (e.g., *\"බඩ රිදෙනවා\"*, *\"කකුල් ඉදිමෙනවා\"*) and exact script-matching rules VERIFIED (Source: `app.py`).\n\n---\n\n## Author's Role & Contribution",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 13
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\nand exact script-matching rules VERIFIED (Source: `app.py`).\n\n---\n\n## Author's Role & Contribution\nINFERRED: The repository represents an individually developed, specialized end-to-end medical simulator targeting Sri Lankan medical curricula. Key architectural contributions include:\n- System prompt design enforcing medical knowledge isolation and language mirroring.\n- Curation and structuring of the Sri Lankan Final MBBS clinical syllabus across 8 exam categories.\n- JavaScript bridge integrating browser-native speech recognition directly into Streamlit's chat interface.\n- Phase-transition architecture enabling seamless handover between patient roleplay and examiner evaluation.\n\n---\n\n## Environment Setup & Run Instructions\n\n### 1. Installation\n```bash\ngit clone <repository-url>\ncd final-mbbs-clinical-simulator\npip install -r requirements.txt\n```\nVERIFIED (Source: `README.md`)\n\n### 2. Secrets Configuration\nCreate `.streamlit/secrets.toml`:\n```toml\nGEMINI_API_KEY = \"YOUR_GEMINI_API_KEY\"\n```\nVERIFIED (Source: `README.md`, `app.py`)",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 14
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/final-mbbs-clinical-simulator (project_detail)\nTitle: Final Mbbs Clinical Simulator\nURL: /projects/final-mbbs-clinical-simulator\nContent Chunk:\n= \"YOUR_GEMINI_API_KEY\"\n```\nVERIFIED (Source: `README.md`, `app.py`)\n### 3. Running Application\n```bash\nstreamlit run app.py\n```\nApplication serves by default at `http://localhost:8501` VERIFIED (Source: `.devcontainer/devcontainer.json`, `README.md`).",
+    "metadata": {
+      "source": "knowledge/projects/final-mbbs-clinical-simulator",
+      "title": "Final Mbbs Clinical Simulator",
+      "type": "project_detail",
+      "url": "/projects/final-mbbs-clinical-simulator",
+      "chunk_index": 15
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\n---\ntitle: Internship-ML\ntype: project\nclassification: PORTFOLIO_PROJECT\nlast_commit: c2c042b11450bf10d70a1b50178a56abddd3f5fc\n---\n\n# Internship-ML: Applied Search Intelligence & Content Decay Prediction\n\n## Executive Summary\nThe **Internship-ML** repository contains a complete applied machine learning project developed during the **FlyRank ML Internship 2026**. The project addresses the problem of predicting organic search traffic decay (impression and click drops) across large multi-client website portfolios to enable editorial teams to prioritize high-risk URLs for manual content refreshes `[VERIFIED: README.md, work/notebooks/capstone.ipynb]`.",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\nhigh-risk URLs for manual content refreshes `[VERIFIED: README.md, work/notebooks/capstone.ipynb]`.\nUsing both a 30,000-row anonymized starter dataset and a Hugging Face-hosted warehouse dataset containing over 78.8 million daily performance records across 104 client domains, the project designs a complete ML workflow: problem framing, data contract definition, signal auditing, rule-based baseline construction, tree-based classifier training, group-based cross-validation, and action playbook generation `[VERIFIED: README.md, GUIDE.md, work/notebooks/capstone.ipynb]`.\n\n---",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\naction playbook generation `[VERIFIED: README.md, GUIDE.md, work/notebooks/capstone.ipynb]`.\n\n---\n## Project Context & Problem Statement\n- **Domain:** Applied Search Intelligence / Organic Search Performance (Google Search Console & Google Analytics 4) `[VERIFIED: README.md, docs/data-dictionary.md]`.\n- **Target Audience:** Content publishers, SEO strategists, and editorial teams managing thousands of URLs `[VERIFIED: work/notebooks/w01_research_question.ipynb, work/notebooks/w07_action_playbook.ipynb]`.\n- **Core Decision Supported:** Determining which declining or stale content items to review and refresh first, given limited editorial capacity (e.g., 5–10 pages per week) `[VERIFIED: work/notebooks/w01_research_question.ipynb, work/notebooks/capstone.ipynb]`.\n- **Cost of Incorrect Predictions:** \n  - *False Positives:* Wasted editorial resources (2–4 hours per page) re-optimizing healthy content `[VERIFIED: work/notebooks/w01_research_question.ipynb]`.",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\nper page) re-optimizing healthy content `[VERIFIED: work/notebooks/w01_research_question.ipynb]`.\n  - *False Negatives:* Unnoticed organic traffic decay leading to ongoing impression loss, click degradation, and revenue decline `[VERIFIED: work/notebooks/w01_research_question.ipynb]`.\n\n---\n\n## Data Architecture & Pipeline",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\n`[VERIFIED: work/notebooks/w01_research_question.ipynb]`.\n\n---\n\n## Data Architecture & Pipeline\n### Datasets Analyzed\n1. **Anonymized Starter Playground Dataset (`data/raw/content_refresh_anonymized.csv`):**\n   - 30,000 anonymized pages × 44 columns across 32 pseudonymized client domains `[VERIFIED: docs/data-dictionary.md]`.\n   - Aggregated 90-day search and engagement metrics, derived comparison windows (prior 30d vs. recent 30d), and freshness tiers `[VERIFIED: docs/data-dictionary.md]`.\n2. **Full Warehouse Dataset (`FlyRank/internship-warehouse` on Hugging Face):**\n   - Queryable via DuckDB SQL over remote Parquet files without downloading `[VERIFIED: GUIDE.md, work/notebooks/capstone.ipynb]`.\n   - Contains 78,835,655 daily fact rows (`fact_content_daily_performance`), 519,606 content dimension rows (`dim_content`), 104 client dimension rows (`dim_clients`), and 2,414,248 90-day query dynamics rows (`fact_content_query_90d`) `[VERIFIED: docs/ml-intern-dataset-and-lane-guide.md]`.",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\ndynamics rows (`fact_content_query_90d`) `[VERIFIED: docs/ml-intern-dataset-and-lane-guide.md]`.\n   - Primary analysis window: Mid-panel month of March 2026, comprising ~120,513 distinct URLs across 41 client domains `[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w03_data_contract.ipynb]`.",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\nclient domains `[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w03_data_contract.ipynb]`.\n### Data Preprocessing & Leakage Safeguards\n- **Privacy & Anonymization:** Raw client names, URLs, page titles, search queries, and domains were pseudonymized using 128-bit hashes (`client_hash_id`, `content_hash_id`, `keyword_hash_id`) prior to release `[VERIFIED: DATA_USE.md, docs/ml-intern-dataset-and-lane-guide.md]`.\n- **Label Leakage Audit:** Direct derived metrics such as `trend_pct` and `trend_direction` were explicitly excluded from model inputs, as they encode the exact calculation of the target label `[VERIFIED: notebooks/02_your_first_readable_model.ipynb, work/notebooks/w03_feature_leakage_check.ipynb]`.\n- **Feature Engineering:** Features were engineered strictly from a historical window prior to the decision point (March 1–15, 2026) to predict outcomes in the subsequent 15-day window (March 16–31, 2026) `[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w03_data_contract.ipynb]`:",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\n16–31, 2026) `[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w03_data_contract.ipynb]`:\n  - `imp_prev15`: Historical 15-day impression volume `[VERIFIED: work/notebooks/capstone.ipynb]`.\n  - `pos_avg_prev`: Historical 15-day average position rank `[VERIFIED: work/notebooks/capstone.ipynb]`.\n  - `pos_std_prev`: Standard deviation of daily position ranks (search rank volatility) `[VERIFIED: work/notebooks/capstone.ipynb]`.\n  - `visible_queries`: Total distinct search queries driving traffic `[VERIFIED: work/notebooks/capstone.ipynb]`.\n  - `top_query_share`: Impression concentration ratio of the top query `[VERIFIED: work/notebooks/capstone.ipynb]`.\n\n---\n\n## Machine Learning Methodology\n\n### Target Definition\n- **Binary Classification Target (`is_declining`):** Defined as an organic search impression drop $\\ge 20\\%$ in the evaluation window relative to the historical observation window (`imp_last15 < 0.8 * imp_prev15`) `[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w03_feature_leakage_check.ipynb]`.",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\n`[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w03_feature_leakage_check.ipynb]`.\n### Baseline Heuristic Rules\nTo evaluate model value, a transparent hand-written rule baseline was implemented `[VERIFIED: scripts/02_baseline_score.py, work/notebooks/w04_baseline_score.ipynb]`:\n- **Rules:** Flagged content exhibiting position drops $\\ge 2.0$ (`ERR_POS_DROP`), impression drops $> 20\\%$ (`ERR_IMP_SLUMP`), or rank volatility (`pos_std_prev > 3.0`) `[VERIFIED: work/notebooks/w04_baseline_score.ipynb, work/notebooks/w07_action_playbook.ipynb]`.\n\n### Models Evaluated\n1. **Logistic Regression:** Scaled linear baseline `[VERIFIED: scripts/03_train_model.py]`.\n2. **Decision Tree Classifier:** Interpretable shallow tree (depth=2 to 5) `[VERIFIED: notebooks/02_your_first_readable_model.ipynb, scripts/03_train_model.py]`.\n3. **Random Forest Classifier:** Ensembled decision trees (`n_estimators=100`, `max_depth=8-10`, `class_weight='balanced'`) to capture non-linear feature interactions `[VERIFIED: scripts/03_train_model.py, work/notebooks/capstone.ipynb]`.",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\nfeature interactions `[VERIFIED: scripts/03_train_model.py, work/notebooks/capstone.ipynb]`.\n### Cross-Validation Strategy\n- **Grouped Split (`GroupShuffleSplit` on `client_hash_id`):** 75% train / 25% test split grouped by client domain `[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w06_validation_audit.ipynb]`.\n- **Methodology Rationale:** Prevents domain authority and site-level traffic distributions from leaking between training and test sets, measuring performance on completely unseen client websites `[VERIFIED: work/notebooks/w06_validation_audit.ipynb, work/notebooks/capstone.ipynb]`.\n\n---\n\n## Key Results & Evaluation\n\n### 1. Starter Pipeline Results (`scripts/01–05` on `content_refresh_anonymized.csv`)\n*Evaluated using client-holdout validation on 30,000 rows `[VERIFIED: outputs/model_report.md]`:*",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\nusing client-holdout validation on 30,000 rows `[VERIFIED: outputs/model_report.md]`:*\n| Model / Baseline | ROC AUC | Avg Precision | Precision@50 | Recall | F1-Score |\n|---|---:|---:|---:|---:|---:|\n| **Baseline Rules** | 0.627 | 0.468 | 0.240 | — | — |\n| **Logistic Regression** | 0.700 | 0.522 | 0.400 | 0.567 | 0.566 |\n| **Decision Tree** | 0.742 | 0.575 | 0.540 | 0.716 | 0.634 |\n| **Random Forest (Best)** | **0.750** | **0.618** | **0.740** | **0.744** | **0.640** |\n\n*Key Outcome:* The Random Forest model achieved a **~3x lift in Precision@50** (0.740 vs. 0.240) over the rule-based baseline `[VERIFIED: outputs/model_report.md, GUIDE.md]`.\n\n### 2. Capstone Warehouse Results (March 2026 Dataset, 120,513 URLs across 41 Client Domains)\n*Evaluated on unseen client domains via `GroupShuffleSplit` `[VERIFIED: work/notebooks/capstone.ipynb]`:*",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\non unseen client domains via `GroupShuffleSplit` `[VERIFIED: work/notebooks/capstone.ipynb]`:*\n| Metric | Heuristic Rule Baseline | Random Forest Model | Performance Delta |\n|---|---:|---:|---|\n| **Accuracy** | 0.6214 | **0.7842** | +16.28% |\n| **Precision** | 0.5012 | **0.5561** | +5.49% |\n| **Recall** | 0.2410 | **0.6823** | **+44.13% (2.8x lift)** |\n| **F1-Score** | 0.3254 | **0.6128** | +28.74% |\n\n*Feature Importance Ranking (Permutation / Gini):* `visible_queries` (0.2939), `imp_prev15` (0.2699), `top_query_share` (0.1915), `pos_avg_prev` (0.1244), `pos_std_prev` (0.1203) `[VERIFIED: work/notebooks/capstone.ipynb]`.",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\n`pos_avg_prev` (0.1244), `pos_std_prev` (0.1203) `[VERIFIED: work/notebooks/capstone.ipynb]`.\n### 3. Leakage & Split Audit Findings\n- **Naive vs. Honest Split Comparison:** A random row-level train/test split yielded artificially inflated metrics (Accuracy 0.7191, Precision 0.5781) compared to the honest client-grouped split (Accuracy 0.6804, Precision 0.3910) `[VERIFIED: work/notebooks/w06_validation_audit.ipynb]`. This proved that random splits suffer from cross-domain data leakage.\n- **Leaked Feature Trap:** Introducing a future outcome signal (`imp_last15`) into the feature set trivially inflated accuracy to 1.0000, confirming the necessity of strict temporal isolation `[VERIFIED: work/notebooks/w03_data_contract.ipynb, work/notebooks/w03_feature_leakage_check.ipynb]`.\n\n---\n\n## Action Playbook & Operationalization\n\nModel outputs were converted into a human-in-the-loop content refresh queue with transparent reason codes `[VERIFIED: work/notebooks/w07_action_playbook.ipynb, outputs/model_report.md]`:",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 12
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\nreason codes `[VERIFIED: work/notebooks/w07_action_playbook.ipynb, outputs/model_report.md]`:\n1. **`URGENT_REFRESH` (Priority 1):** High-traffic URLs ($imp \\ge 100$) experiencing concurrent position drops ($\\ge 2.0$) and impression slumps ($> 20\\%$) `[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w07_action_playbook.ipynb]`.\n2. **`MONITOR_VOLATILITY` (Priority 2):** Pages with high rank variance (`pos_std_prev > 3.0`) tracked for search intent shifts prior to heavy rewriting `[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w07_action_playbook.ipynb]`.\n3. **`PRUNE_OR_CONSOLIDATE` (Priority 3):** Low-volume decaying pages ($imp < 50$) recommended for consolidation or 301 redirects `[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w07_action_playbook.ipynb]`.",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 13
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\nredirects `[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w07_action_playbook.ipynb]`.\n### No-Go Automation Boundaries\n- 🚫 **No Automated AI Overwrites:** LLM text generators must never replace live content programmatically without human editorial review `[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w07_action_playbook.ipynb]`.\n- 🚫 **No Automated URL Deletions / Redirects:** Page pruning and 301 redirects must not be automated without manual SEO approval `[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w07_action_playbook.ipynb]`.\n\n---\n\n## Public-Safety & Claim Discipline",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 14
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\nwork/notebooks/w07_action_playbook.ipynb]`.\n\n---\n\n## Public-Safety & Claim Discipline\nAll research claims in the repository strictly adhere to the following claim ladder `[VERIFIED: DATA_USE.md, skills/writing-honest-claims/SKILL.md, work/notebooks/capstone.ipynb]`:\n- **Allowed Terminology:** *Observed*, *measured*, *directional*, *decision-support* `[VERIFIED: DATA_USE.md, work/notebooks/w01_research_question.ipynb]`.\n- **Prohibited Claims:** No claims of causal proof, no claims of predicting search engine algorithms, and no disclosure of private client details, URLs, or search queries `[VERIFIED: DATA_USE.md, work/notebooks/w01_research_question.ipynb, work/notebooks/capstone.ipynb]`.\n\n---\n\n## Repository Structure",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 15
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\nwork/notebooks/capstone.ipynb]`.\n\n---\n\n## Repository Structure\n```text\n├── .github/workflows/       # CI workflows (data-path-smoke, personalize, smoke-test dataset leak checks)\n├── data/\n│   └── raw/\n│       └── content_refresh_anonymized.csv  # 30k anonymized starter slice\n├── docs/                     # Data dictionary, framework, tooling & dataset guides\n├── notebooks/                # Week 1-2 guided first-win notebooks (01, 02, 03)\n├── outputs/                  # Committed reference reports, metrics JSONs, SVG charts, PDF summary\n├── scripts/                  # 5-stage reference ML pipeline (01_prepare..05_build_pdf) + ml_utils.py\n├── skills/                   # Modular instruction library for AI assistants\n├── submission/\n│   └── paper_url.txt         # Placeholder/entry for deployed GitHub Pages research paper URL\n└── work/\n    ├── notebooks/            # User implementation notebooks (w01..w07, capstone.ipynb)\n    └── outputs/              # Exported action queues and baseline scores\n```\n\n---",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 16
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Internship-ML (project_detail)\nTitle: Internship Ml\nURL: /projects/Internship-ML\nContent Chunk:\ncapstone.ipynb)\n    └── outputs/              # Exported action queues and baseline scores\n```\n\n---\n## Author Contribution Summary\n- **Author:** Ravindi Dhananjana `[VERIFIED: URL metadata, Colab badges in notebooks]`.\n- **Contributions Completed:**\n  - Completed all 8 weekly assignment notebooks (`w01_research_question` through `w07_action_playbook` and `capstone.ipynb`) in `work/notebooks/` `[VERIFIED: work/notebooks/*.ipynb]`.\n  - Implemented DuckDB remote Parquet queries connecting to Hugging Face dataset endpoints `[VERIFIED: work/notebooks/w03_data_contract.ipynb, work/notebooks/capstone.ipynb]`.\n  - Conducted signal audits, leakage tests, and naive vs. grouped cross-validation experiments `[VERIFIED: work/notebooks/w03_feature_leakage_check.ipynb, work/notebooks/w06_validation_audit.ipynb]`.\n  - Constructed the capstone machine learning pipeline and action playbook `[VERIFIED: work/notebooks/capstone.ipynb, work/notebooks/w07_action_playbook.ipynb]`.",
+    "metadata": {
+      "source": "knowledge/projects/Internship-ML",
+      "title": "Internship Ml",
+      "type": "project_detail",
+      "url": "/projects/Internship-ML",
+      "chunk_index": 17
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/LunarLandingSafetyAnalysis (project_detail)\nTitle: Lunarlandingsafetyanalysis\nURL: /projects/LunarLandingSafetyAnalysis\nContent Chunk:\n---\ntitle: LunarLandingSafetyAnalysis\ntype: project\nclassification: PORTFOLIO_PROJECT\nlast_commit: a7227ee6a48d351e9c705ff87fdbbc9fb8a35b08\n---\n\n# Lunar Landing Site Risk Analysis using Computer Vision\n\n## Overview\n\nThe **Lunar Landing Site Risk Analysis** system is a computer vision and image processing application designed to evaluate real lunar surface imagery and assess safe landing regions for autonomous lunar landers. Developed using Python, OpenCV, and Streamlit, the system analyzes lunar terrain hazard features—including surface roughness, structural edge density, and shadowed regions—to compute a continuous risk heatmap and classify landing zones into Safe, Moderate, and Unsafe areas.\n\n---\n\n## Key Features & Technology Stack",
+    "metadata": {
+      "source": "knowledge/projects/LunarLandingSafetyAnalysis",
+      "title": "Lunarlandingsafetyanalysis",
+      "type": "project_detail",
+      "url": "/projects/LunarLandingSafetyAnalysis",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/LunarLandingSafetyAnalysis (project_detail)\nTitle: Lunarlandingsafetyanalysis\nURL: /projects/LunarLandingSafetyAnalysis\nContent Chunk:\nlanding zones into Safe, Moderate, and Unsafe areas.\n\n---\n\n## Key Features & Technology Stack\n* **Interactive Web Interface:** Built with Streamlit, providing real-time image uploads, full risk metric breakdowns, overlay visualizations, individual pipeline stage previews, and downloadable decision maps. VERIFIED (Source: `app.py`)\n* **Multi-Stage Computer Vision Pipeline:** Integrates classical image preprocessing, edge detection, laplacian roughness calculation, percentile shadow segmentation, and continuous spatial smoothing. VERIFIED (Source: `app.py`, `README.md`)\n* **Dynamic Risk Map Fusion:** Combines four hazard metrics using weighted spatial smoothing to generate a normalized continuous terrain risk score. VERIFIED (Source: `app.py`)\n* **Automated Landing Verdict:** Computes area coverage percentages for each risk class and categorizes overall landing viability. VERIFIED (Source: `app.py`)\n* **Technologies Used:**\n  * **Language:** Python VERIFIED (Source: `README.md`)",
+    "metadata": {
+      "source": "knowledge/projects/LunarLandingSafetyAnalysis",
+      "title": "Lunarlandingsafetyanalysis",
+      "type": "project_detail",
+      "url": "/projects/LunarLandingSafetyAnalysis",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/LunarLandingSafetyAnalysis (project_detail)\nTitle: Lunarlandingsafetyanalysis\nURL: /projects/LunarLandingSafetyAnalysis\nContent Chunk:\n(Source: `app.py`)\n* **Technologies Used:**\n  * **Language:** Python VERIFIED (Source: `README.md`)\n  * **Libraries:** OpenCV (`opencv-python-headless`), NumPy, Streamlit, Pillow, Matplotlib VERIFIED (Source: `requirements.txt`)\n\n---\n\n## Computer Vision Pipeline & Implementation Details\n\nThe processing pipeline implemented in `app.py` consists of six distinct computational stages:",
+    "metadata": {
+      "source": "knowledge/projects/LunarLandingSafetyAnalysis",
+      "title": "Lunarlandingsafetyanalysis",
+      "type": "project_detail",
+      "url": "/projects/LunarLandingSafetyAnalysis",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/LunarLandingSafetyAnalysis (project_detail)\nTitle: Lunarlandingsafetyanalysis\nURL: /projects/LunarLandingSafetyAnalysis\nContent Chunk:\nprocessing pipeline implemented in `app.py` consists of six distinct computational stages:\n```\n[ Input Lunar Image ]\n        │\n        ▼\n1. Image Preprocessing ──► Grayscale conversion, Median Blur (5x5), CLAHE, 3x3 Sharpening, Intensity Normalization\n        │\n        ├──────────────────────┬──────────────────────┐\n        ▼                      ▼                      ▼\n2. Edge Detection      3. Roughness Analysis   4. Shadow Detection\n   (Canny + Dilation)     (Laplacian Magnitude)   (20th Percentile + Morphology)\n        │                      │                      │\n        └──────────────────────┼──────────────────────┘\n                               ▼\n                   5. Continuous Risk Mapping\n                   (0.20 Edge + 0.40 Rough + 0.20 Shadow + 0.20 Dark)\n                               │\n                               ▼\n                  6. Classification & Verdict\n                   (Thresholds: Safe <0.45, Moderate <0.70, Unsafe >=0.70)\n```",
+    "metadata": {
+      "source": "knowledge/projects/LunarLandingSafetyAnalysis",
+      "title": "Lunarlandingsafetyanalysis",
+      "type": "project_detail",
+      "url": "/projects/LunarLandingSafetyAnalysis",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/LunarLandingSafetyAnalysis (project_detail)\nTitle: Lunarlandingsafetyanalysis\nURL: /projects/LunarLandingSafetyAnalysis\nContent Chunk:\n& Verdict\n                   (Thresholds: Safe <0.45, Moderate <0.70, Unsafe >=0.70)\n```\n### 1. Image Preprocessing\n* Converts input BGR images to grayscale. VERIFIED (Source: `app.py`)\n* Applies median filtering (`kernel_size=5`) to remove high-frequency noise while preserving terrain edges. VERIFIED (Source: `app.py`)\n* Uses Contrast Limited Adaptive Histogram Equalization (CLAHE) with `clipLimit=2.0` and `tileGridSize=(8, 8)` to enhance contrast across varying surface illumination. VERIFIED (Source: `app.py`)\n* Sharpens image features using a 3x3 kernel (`[[0, -1, 0], [-1, 5, -1], [0, -1, 0]]`) and normalizes intensity to $[0, 255]$. VERIFIED (Source: `app.py`)",
+    "metadata": {
+      "source": "knowledge/projects/LunarLandingSafetyAnalysis",
+      "title": "Lunarlandingsafetyanalysis",
+      "type": "project_detail",
+      "url": "/projects/LunarLandingSafetyAnalysis",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/LunarLandingSafetyAnalysis (project_detail)\nTitle: Lunarlandingsafetyanalysis\nURL: /projects/LunarLandingSafetyAnalysis\nContent Chunk:\n0], [-1, 5, -1], [0, -1, 0]]`) and normalizes intensity to $[0, 255]$. VERIFIED (Source: `app.py`)\n### 2. Edge Detection\n* Applies Gaussian blur ($5 \\times 5$) and calculates lower and upper Canny thresholds dynamically based on median image intensity ($\\text{lower} = 0.8 \\times \\text{median}$, $\\text{upper} = 2.2 \\times \\text{median}$). VERIFIED (Source: `app.py`)\n* Dilates detected edges with a $3 \\times 3$ kernel and applies Gaussian smoothing to spread edge risk around detected crater rims and rocks. VERIFIED (Source: `app.py`, `README.md`)\n\n### 3. Surface Roughness Analysis\n* Computes local intensity variations by passing a Gaussian-blurred image through a 64-bit float Laplacian operator (`cv2.Laplacian`). VERIFIED (Source: `app.py`)\n* Normalizes absolute Laplacian response values to $[0, 255]$ to formulate a surface roughness map. VERIFIED (Source: `app.py`)",
+    "metadata": {
+      "source": "knowledge/projects/LunarLandingSafetyAnalysis",
+      "title": "Lunarlandingsafetyanalysis",
+      "type": "project_detail",
+      "url": "/projects/LunarLandingSafetyAnalysis",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/LunarLandingSafetyAnalysis (project_detail)\nTitle: Lunarlandingsafetyanalysis\nURL: /projects/LunarLandingSafetyAnalysis\nContent Chunk:\nresponse values to $[0, 255]$ to formulate a surface roughness map. VERIFIED (Source: `app.py`)\n### 4. Shadow Detection\n* Uses Gaussian blur ($7 \\times 7$) and segments dark regions by calculating the 20th percentile intensity threshold of the image. VERIFIED (Source: `app.py`)\n* Cleans noise and fills gaps using morphological opening and closing with a $3 \\times 3$ kernel. VERIFIED (Source: `app.py`)",
+    "metadata": {
+      "source": "knowledge/projects/LunarLandingSafetyAnalysis",
+      "title": "Lunarlandingsafetyanalysis",
+      "type": "project_detail",
+      "url": "/projects/LunarLandingSafetyAnalysis",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/LunarLandingSafetyAnalysis (project_detail)\nTitle: Lunarlandingsafetyanalysis\nURL: /projects/LunarLandingSafetyAnalysis\nContent Chunk:\nusing morphological opening and closing with a $3 \\times 3$ kernel. VERIFIED (Source: `app.py`)\n### 5. Continuous Risk Map Fusion\n* Normalizes edge, roughness, shadow, and deep shadow mask ($< 50$ intensity) features to $[0, 1]$ floating-point maps. VERIFIED (Source: `app.py`)\n* Smooths each map with a large Gaussian kernel ($31 \\times 31$) to simulate spatial hazard influence around dangerous obstacles. VERIFIED (Source: `app.py`, `README.md`)\n* Combines maps using a weighted linear combination:\n  $$\\text{Risk} = 0.20 \\cdot \\text{Edge}_{\\text{smooth}} + 0.40 \\cdot \\text{Roughness}_{\\text{smooth}} + 0.20 \\cdot \\text{Shadow}_{\\text{smooth}} + 0.20 \\cdot \\text{Dark}_{\\text{smooth}}$$\n  VERIFIED (Source: `app.py`)\n* Forces extreme shadow pixels ($< 35$ intensity) to maximum risk ($1.0$), applies a final $21 \\times 21$ Gaussian blur, and renormalizes to $[0, 1]$. VERIFIED (Source: `app.py`)",
+    "metadata": {
+      "source": "knowledge/projects/LunarLandingSafetyAnalysis",
+      "title": "Lunarlandingsafetyanalysis",
+      "type": "project_detail",
+      "url": "/projects/LunarLandingSafetyAnalysis",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/LunarLandingSafetyAnalysis (project_detail)\nTitle: Lunarlandingsafetyanalysis\nURL: /projects/LunarLandingSafetyAnalysis\nContent Chunk:\na final $21 \\times 21$ Gaussian blur, and renormalizes to $[0, 1]$. VERIFIED (Source: `app.py`)\n### 6. Classification & Decision Rules\n* Maps continuous risk values into three discrete classes:\n  * **Safe (Green, Class 0):** $\\text{Risk} < 0.45$\n  * **Moderate (Yellow, Class 1):** $0.45 \\le \\text{Risk} < 0.70$\n  * **Unsafe (Red, Class 2):** $\\text{Risk} \\ge 0.70$\n  VERIFIED (Source: `app.py`)\n* Generates a final verdict based on total coverage percentage:\n  * If $\\text{Unsafe Area} > 40\\%$: `\"UNSAFE LANDING AREA\"`\n  * Else if $\\text{Safe Area} > 50\\%$ AND $\\text{Unsafe Area} < 25\\%$: `\"POSSIBLE SAFE LANDING AREA\"`\n  * Else: `\"MODERATE / NEEDS FURTHER ANALYSIS\"`\n  VERIFIED (Source: `app.py`)\n\n---\n\n## Dataset",
+    "metadata": {
+      "source": "knowledge/projects/LunarLandingSafetyAnalysis",
+      "title": "Lunarlandingsafetyanalysis",
+      "type": "project_detail",
+      "url": "/projects/LunarLandingSafetyAnalysis",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/LunarLandingSafetyAnalysis (project_detail)\nTitle: Lunarlandingsafetyanalysis\nURL: /projects/LunarLandingSafetyAnalysis\nContent Chunk:\n* Else: `\"MODERATE / NEEDS FURTHER ANALYSIS\"`\n  VERIFIED (Source: `app.py`)\n\n---\n\n## Dataset\n* **Source:** Real lunar surface images collected from NASA / Lunar Reconnaissance Orbiter Camera (LROC) imagery sources. VERIFIED (Source: `README.md`)\n* **Volume:** 20 imagery samples evaluated during project development. VERIFIED (Source: `README.md`)\n* **Terrain Types Captured:** Craters, deep shadows, rough uneven surfaces, and flat lunar mare regions. VERIFIED (Source: `README.md`)\n\n---\n\n## Key Results & Evaluation",
+    "metadata": {
+      "source": "knowledge/projects/LunarLandingSafetyAnalysis",
+      "title": "Lunarlandingsafetyanalysis",
+      "type": "project_detail",
+      "url": "/projects/LunarLandingSafetyAnalysis",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/LunarLandingSafetyAnalysis (project_detail)\nTitle: Lunarlandingsafetyanalysis\nURL: /projects/LunarLandingSafetyAnalysis\nContent Chunk:\nand flat lunar mare regions. VERIFIED (Source: `README.md`)\n\n---\n\n## Key Results & Evaluation\n* **Multi-Stage Map Outputs:** The system outputs step-by-step visual feedback (Preprocessed, Edges, Roughness, Shadow, Continuous Risk Map, Classified Map, and Final Decision Map overlay). VERIFIED (Source: `app.py`, `README.md`)\n* **Quantitative Landing Breakdown:** Provides exact percentage coverage metrics for safe, moderate, and unsafe landing surfaces per image analysis. VERIFIED (Source: `app.py`)\n* **Deployment Readiness:** Interactive web app allows immediate upload and analysis of common image formats (`jpg`, `png`, `bmp`, `tif`) with decision map downloads. VERIFIED (Source: `app.py`)\n\n---\n\n## Author & Project Information",
+    "metadata": {
+      "source": "knowledge/projects/LunarLandingSafetyAnalysis",
+      "title": "Lunarlandingsafetyanalysis",
+      "type": "project_detail",
+      "url": "/projects/LunarLandingSafetyAnalysis",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/LunarLandingSafetyAnalysis (project_detail)\nTitle: Lunarlandingsafetyanalysis\nURL: /projects/LunarLandingSafetyAnalysis\nContent Chunk:\nwith decision map downloads. VERIFIED (Source: `app.py`)\n\n---\n\n## Author & Project Information\n* **Author:** Ravindi Dhananjana VERIFIED (Source: `README.md`)\n* **Academic Background:** Undergraduate student pursuing a BSc (Hons) in Computer Science with AI. VERIFIED (Source: `README.md`)\n* **Future Work:** Integration of deep learning crater detection models, CNN-based terrain classification, hazard segmentation models, and real-time landing simulation. VERIFIED (Source: `README.md`)",
+    "metadata": {
+      "source": "knowledge/projects/LunarLandingSafetyAnalysis",
+      "title": "Lunarlandingsafetyanalysis",
+      "type": "project_detail",
+      "url": "/projects/LunarLandingSafetyAnalysis",
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/portfolio (project_detail)\nTitle: Portfolio\nURL: /projects/portfolio\nContent Chunk:\n---\ntitle: portfolio\ntype: project\nclassification: PORTFOLIO_PROJECT\nlast_commit: b6eeeef20b4f17517d1bf688a0308afe0dc7eacb\n---\n\n# Personal Portfolio & Elara AI Agent\n\n## Project Overview\nThe **Personal Portfolio & Elara AI Agent** repository contains the complete full-stack implementation of Ravindi Gunasekara's professional portfolio website, integrated with an AI-powered conversational agent named **\"Elara\"**. Elara answers questions about Ravindi's profile, academic background, research interests, projects, skills, and contact details using a custom Retrieval-Augmented Generation (RAG) pipeline built with FastAPI, FAISS, Google Gemini, and OpenRouter fallback models.",
+    "metadata": {
+      "source": "knowledge/projects/portfolio",
+      "title": "Portfolio",
+      "type": "project_detail",
+      "url": "/projects/portfolio",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/portfolio (project_detail)\nTitle: Portfolio\nURL: /projects/portfolio\nContent Chunk:\nGeneration (RAG) pipeline built with FastAPI, FAISS, Google Gemini, and OpenRouter fallback models.\n- **VERIFIED Source:** `README.md`, `backend/app/agent/prompts.py`, `frontend/src/app/agent/page.tsx`\n- **Primary Language:** Python (Backend) & TypeScript (Frontend) VERIFIED (Source: repository metadata, `README.md`, `package.json`)\n- **Repository URL:** `https://github.com/ravindidhananjana/portfolio` VERIFIED (Source: repository metadata)\n\n---\n\n## Author & Role Contribution\n- **Owner / Author:** Ravindi Gunasekara VERIFIED (Source: `backend/app/knowledge/profile.md`, `README.md`)\n- **Contribution:** Designed and implemented the complete frontend website, backend API server, local knowledge base, vector embedding ingestion pipeline, FAISS vector search, and multi-provider LLM fallback chain. VERIFIED (Source: `backend/`, `frontend/`, `scripts/ingest_knowledge.py`)\n\n---\n\n## System Architecture & Technologies\n\n### Architecture Overview\nThe repository is split into a decoupled frontend and backend architecture:",
+    "metadata": {
+      "source": "knowledge/projects/portfolio",
+      "title": "Portfolio",
+      "type": "project_detail",
+      "url": "/projects/portfolio",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/portfolio (project_detail)\nTitle: Portfolio\nURL: /projects/portfolio\nContent Chunk:\nArchitecture Overview\nThe repository is split into a decoupled frontend and backend architecture:\n```\nportfolio/\n├── backend/    FastAPI + Gemini/OpenRouter RAG Agent + FAISS Vector Store\n└── frontend/   Next.js 14 Portfolio Site + Streaming Chat Interface\n```\n- **VERIFIED Source:** `README.md`",
+    "metadata": {
+      "source": "knowledge/projects/portfolio",
+      "title": "Portfolio",
+      "type": "project_detail",
+      "url": "/projects/portfolio",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/portfolio (project_detail)\nTitle: Portfolio\nURL: /projects/portfolio\nContent Chunk:\nNext.js 14 Portfolio Site + Streaming Chat Interface\n```\n- **VERIFIED Source:** `README.md`\n### Tech Stack Table\n| Component | Technology / Library | Purpose | Evidence / Source |\n| :--- | :--- | :--- | :--- |\n| **Frontend Framework** | Next.js 14 (App Router), React 18 | Client-side UI & routing | VERIFIED (`frontend/package.json`) |\n| **Frontend Styling** | Tailwind CSS, Framer Motion | Modern styling & animations | VERIFIED (`frontend/package.json`, `frontend/tailwind.config.ts`) |\n| **Icons** | Lucide React, React Icons | UI Iconography | VERIFIED (`frontend/package.json`) |\n| **Backend Framework** | FastAPI, Uvicorn | Asynchronous REST & SSE streaming server | VERIFIED (`backend/requirements.txt`, `backend/app/main.py`) |\n| **LLM APIs** | Google GenAI SDK (`google-genai`), `httpx` | Interface for Gemini & OpenRouter APIs | VERIFIED (`backend/requirements.txt`, `backend/app/agent/llm_client_fallback.py`) |",
+    "metadata": {
+      "source": "knowledge/projects/portfolio",
+      "title": "Portfolio",
+      "type": "project_detail",
+      "url": "/projects/portfolio",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/portfolio (project_detail)\nTitle: Portfolio\nURL: /projects/portfolio\nContent Chunk:\nAPIs | VERIFIED (`backend/requirements.txt`, `backend/app/agent/llm_client_fallback.py`) |\n| **Vector Indexing** | FAISS (`faiss-cpu`), NumPy | In-memory/disk vector store using inner product index | VERIFIED (`backend/requirements.txt`, `backend/app/storage/faiss_store.py`) |\n| **Configuration** | `pydantic-settings` | Environment variable parsing and defaults | VERIFIED (`backend/app/config.py`) |\n\n---\n\n## Ingestion Pipeline & Knowledge Base\n\n### Data Sources\n1. **Local Knowledge Files:** Markdown files stored in `backend/app/knowledge/` covering profile, skills, education, experience, achievements, and contact details. VERIFIED (Source: `backend/app/ingestion/load_local.py`)\n2. **GitHub Repositories:** Automated ingestion of public repositories and README files for `GITHUB_USERNAME` (\"ravindidhananjana\") via the GitHub REST API. VERIFIED (Source: `backend/app/ingestion/fetch_github.py`)",
+    "metadata": {
+      "source": "knowledge/projects/portfolio",
+      "title": "Portfolio",
+      "type": "project_detail",
+      "url": "/projects/portfolio",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/portfolio (project_detail)\nTitle: Portfolio\nURL: /projects/portfolio\nContent Chunk:\nvia the GitHub REST API. VERIFIED (Source: `backend/app/ingestion/fetch_github.py`)\n### Text Splitting & Embedding\n- **Chunking Strategy:** `RecursiveCharacterTextSplitter` with a target chunk size of 400 characters and 50 characters overlap. Chunks are prepended with metadata (Title, Source, Type, URL). VERIFIED (Source: `backend/app/ingestion/chunker.py`)\n- **Embedding Model:** `text-embedding-004` via Gemini API. VERIFIED (Source: `backend/app/config.py`, `backend/scripts/ingest_knowledge.py`)\n- **Vector Storage:** FAISS `IndexFlatIP` index stored on disk in `backend/vector_store/index.faiss` along with chunk metadata in `chunks.json`. Embeddings are L2-normalized so inner product performs cosine similarity search. VERIFIED (Source: `backend/app/storage/faiss_store.py`)\n- **Background Synchronization:** Triggered via `POST /api/sync` protected by an `X-Sync-Secret` header, which runs `scripts/ingest_knowledge.py` as an asynchronous background task. VERIFIED (Source: `backend/app/routers/sync.py`)\n\n---\n\n## RAG Pipeline & Agent Implementation",
+    "metadata": {
+      "source": "knowledge/projects/portfolio",
+      "title": "Portfolio",
+      "type": "project_detail",
+      "url": "/projects/portfolio",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/portfolio (project_detail)\nTitle: Portfolio\nURL: /projects/portfolio\nContent Chunk:\ntask. VERIFIED (Source: `backend/app/routers/sync.py`)\n\n---\n\n## RAG Pipeline & Agent Implementation\n### Search & Deduplication\n- **Query Embedding:** User queries are embedded via `text-embedding-004`. VERIFIED (Source: `backend/app/agent/retriever.py`)\n- **Retrieval Limit:** Retrieves top candidate chunks (up to `MAX_RETRIEVAL_CHUNKS`, max 3). VERIFIED (Source: `backend/app/agent/retriever.py`, `backend/app/config.py`)\n- **Deduplication:** Filters out near-duplicate chunks before building the context prompt based on text normalization and token overlap similarity threshold ($\\ge 0.8$). VERIFIED (Source: `backend/app/agent/retriever.py`)",
+    "metadata": {
+      "source": "knowledge/projects/portfolio",
+      "title": "Portfolio",
+      "type": "project_detail",
+      "url": "/projects/portfolio",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/portfolio (project_detail)\nTitle: Portfolio\nURL: /projects/portfolio\nContent Chunk:\ntoken overlap similarity threshold ($\\ge 0.8$). VERIFIED (Source: `backend/app/agent/retriever.py`)\n### Prompting & Grounding Rules\n- **System Identity:** Agent \"Elara\", personal AI portfolio assistant for Ravindi Gunasekara. Speaks in first person for self (\"I can tell you about...\") and third person for Ravindi. VERIFIED (Source: `backend/app/agent/prompts.py`)\n- **Grounding Rules:** Strict instruction to answer ONLY using verified context provided. Hallucination is strictly forbidden. Redirects out-of-scope trivia queries. VERIFIED (Source: `backend/app/agent/prompts.py`)",
+    "metadata": {
+      "source": "knowledge/projects/portfolio",
+      "title": "Portfolio",
+      "type": "project_detail",
+      "url": "/projects/portfolio",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/portfolio (project_detail)\nTitle: Portfolio\nURL: /projects/portfolio\nContent Chunk:\nforbidden. Redirects out-of-scope trivia queries. VERIFIED (Source: `backend/app/agent/prompts.py`)\n### Multi-Tiered LLM Fallback Chain\nThe agent (`LLMClientWithFallback`) sequentially attempts models to ensure high availability:\n1. **Primary Gemini Model:** `gemini-2.0-flash` VERIFIED (Source: `backend/app/config.py`, `backend/app/agent/llm_client_fallback.py`)\n2. **Gemini Fallbacks:** `gemini-1.5-flash`, `gemini-1.5-pro` VERIFIED (Source: `backend/app/config.py`)\n3. **OpenRouter Free Fallbacks:** `meta-llama/llama-3.1-8b-instruct:free`, `google/gemma-2-9b-it:free`, `mistralai/mistral-7b-instruct:free` (if `OPENROUTER_API_KEY` is configured). VERIFIED (Source: `backend/app/config.py`, `backend/app/agent/llm_client_fallback.py`)\n\n### Streaming Response\n- Delivered via Server-Sent Events (SSE) from `POST /api/chat` emitting JSON tokens (`{\"token\": \"...\"}`) and closing with `data: [DONE]`. VERIFIED (Source: `backend/app/routers/chat.py`)\n\n---\n\n## Frontend Pages & User Experience",
+    "metadata": {
+      "source": "knowledge/projects/portfolio",
+      "title": "Portfolio",
+      "type": "project_detail",
+      "url": "/projects/portfolio",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/portfolio (project_detail)\nTitle: Portfolio\nURL: /projects/portfolio\nContent Chunk:\n[DONE]`. VERIFIED (Source: `backend/app/routers/chat.py`)\n\n---\n\n## Frontend Pages & User Experience\n- **Home Page (`/`):** Hero section featuring Ravindi's background, quick links to projects, agent chat, CV, GitHub, LinkedIn, and Kaggle. VERIFIED (Source: `frontend/src/app/page.tsx`, `frontend/src/components/home/Hero.tsx`)\n- **About Page (`/about`):** Details education at NIBM, technical focus areas, mission, and technical interests grid. VERIFIED (Source: `frontend/src/app/about/page.tsx`)\n- **AI Agent Chat (`/agent`):** Dedicated chat interface connecting to the FastAPI backend, featuring Markdown rendering, suggested questions, stream buffer parsing, and chat reset capabilities. VERIFIED (Source: `frontend/src/app/agent/page.tsx`)\n- **Projects Page (`/projects`):** Displays highlighted projects including Multimodal AML Classification, Lunar Landing Site Risk Analysis, and AI Clinical Case Simulator. VERIFIED (Source: `frontend/src/app/projects/page.tsx`, `frontend/src/data/projects.ts`)",
+    "metadata": {
+      "source": "knowledge/projects/portfolio",
+      "title": "Portfolio",
+      "type": "project_detail",
+      "url": "/projects/portfolio",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/portfolio (project_detail)\nTitle: Portfolio\nURL: /projects/portfolio\nContent Chunk:\nSimulator. VERIFIED (Source: `frontend/src/app/projects/page.tsx`, `frontend/src/data/projects.ts`)\n- **AI Lab (`/lab`):** Experimental space highlighting ongoing/completed research projects like RAG pipelines, Vision Transformers, and Edge AI tracking. VERIFIED (Source: `frontend/src/app/lab/page.tsx`, `frontend/src/data/lab.ts`)\n- **Resume Page (`/resume`):** Outlines education, categorized technical skills, and download link for CV. VERIFIED (Source: `frontend/src/app/resume/page.tsx`)\n- **Contact Page (`/contact`):** Direct contact options (Email, Location, Socials), contact form, and CTA to Elara agent. VERIFIED (Source: `frontend/src/app/contact/page.tsx`)\n\n---\n\n## Key Results & Capabilities",
+    "metadata": {
+      "source": "knowledge/projects/portfolio",
+      "title": "Portfolio",
+      "type": "project_detail",
+      "url": "/projects/portfolio",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/portfolio (project_detail)\nTitle: Portfolio\nURL: /projects/portfolio\nContent Chunk:\nagent. VERIFIED (Source: `frontend/src/app/contact/page.tsx`)\n\n---\n\n## Key Results & Capabilities\n- **Streaming RAG Integration:** Successfully streams responses token-by-token from Gemini/OpenRouter to Next.js frontend via SSE. VERIFIED (Source: `backend/app/routers/chat.py`, `frontend/src/app/agent/page.tsx`)\n- **High Availability LLM Failover:** Prevents downtime during rate limits or API outages by falling back across 6 different models across 2 providers. VERIFIED (Source: `backend/app/agent/llm_client_fallback.py`)\n- **Automatic Knowledge Refresh:** Reloads vector store state on disk per request and supports background ingestion syncs. VERIFIED (Source: `backend/app/agent/agent.py`, `backend/app/routers/sync.py`)\n\n---\n\n## Challenges & Solutions",
+    "metadata": {
+      "source": "knowledge/projects/portfolio",
+      "title": "Portfolio",
+      "type": "project_detail",
+      "url": "/projects/portfolio",
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/portfolio (project_detail)\nTitle: Portfolio\nURL: /projects/portfolio\nContent Chunk:\n`backend/app/agent/agent.py`, `backend/app/routers/sync.py`)\n\n---\n\n## Challenges & Solutions\n| Challenge | Solution | Source / Evidence |\n| :--- | :--- | :--- |\n| **Gemini API Rate Limits / Quotas** | Implemented `asyncio.sleep(0.5)` during chunk ingestion and built a multi-model fallback chain to Gemini 1.5 models and OpenRouter free models. | VERIFIED (`backend/scripts/ingest_knowledge.py`, `backend/app/agent/llm_client_fallback.py`) |\n| **Vector Search Duplication** | Developed custom token overlap and string normalization deduplication in `Retriever.retrieve()` to prevent duplicate context chunks from polluting the LLM prompt. | VERIFIED (`backend/app/agent/retriever.py`) |\n| **LLM Chunk Dumping / Database Echoing** | Configured system prompt with explicit guidelines instructing Elara to synthesize facts conversationally without outputting chunk IDs or verbatim metadata. | VERIFIED (`backend/app/agent/prompts.py`) |",
+    "metadata": {
+      "source": "knowledge/projects/portfolio",
+      "title": "Portfolio",
+      "type": "project_detail",
+      "url": "/projects/portfolio",
+      "chunk_index": 12
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/ravindidhananjana (project_detail)\nTitle: Ravindidhananjana\nURL: /projects/ravindidhananjana\nContent Chunk:\n---\ntitle: ravindidhananjana\ntype: project\nclassification: IGNORE\nlast_commit: 201e97ef573e38de90f9dbd6631338358fdbe080\n---\n\n# Ravindi Gunasekara - Profile README\n\n**Reason for IGNORE:** This repository (`ravindidhananjana/ravindidhananjana`) is a GitHub Profile README repository used solely to display personal bio, skills, and links to external projects on the author's GitHub profile page. It does not contain source code, datasets, or implementation details for a specific project.",
+    "metadata": {
+      "source": "knowledge/projects/ravindidhananjana",
+      "title": "Ravindidhananjana",
+      "type": "project_detail",
+      "url": "/projects/ravindidhananjana",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\n---\ntitle: SEO-ML\ntype: project\nclassification: PORTFOLIO_PROJECT\nlast_commit: dcf95143f443ac18f661599b169dd9653e844944\n---\n\n# SEO-ML: Applied Search Intelligence & Content Refresh Opportunity Pipeline\n\n## Overview\n\n**SEO-ML** is an end-to-end Machine Learning system and technical framework for search engine optimization (SEO) performance modeling and content refresh prioritization. Developed for the FlyRank ML Internship, the project provides an applied solution for predicting content performance decay (traffic decline) and ranking web pages for editorial review using observable search and engagement metrics.\n\nThe repository includes a complete production-grade ML pipeline (`01` through `05`), a deterministic baseline scoring system, a client-holdout validation harness, DuckDB-powered querying over large remote datasets on Hugging Face (~79 million rows), automated PDF/SVG report generation, and automated GitHub Actions CI workflows containing strict data leak guards.\n\n---",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\ngeneration, and automated GitHub Actions CI workflows containing strict data leak guards.\n\n---\n## Technical Stack & Dependencies\n\n- **Language:** Python 3.11 / 3.12 `VERIFIED (Source: .github/workflows/smoke-test.yml, .github/workflows/data-path-smoke.yml)`\n- **Data Processing & Manipulation:** `pandas`, `numpy`, `duckdb` `VERIFIED (Source: requirements.txt)`\n- **Machine Learning:** `scikit-learn` (Logistic Regression, Decision Trees, Random Forests, Pipelines, StandardScalers) `VERIFIED (Source: scripts/03_train_model.py)`\n- **Data Fetching & Remote Storage:** `huggingface_hub` (gated dataset streaming via Parquet) `VERIFIED (Source: notebooks/03_working_with_the_full_release.ipynb)`\n- **Visualization & Reporting:** `matplotlib`, custom SVG generator, `reportlab` (PDF generation) `VERIFIED (Source: scripts/05_build_pdf_report.py, scripts/ml_utils.py)`\n- **CI/CD & Automation:** GitHub Actions (Smoke testing, weekly scheduled workflow, dataset leak prevention) `VERIFIED (Source: .github/workflows/smoke-test.yml)`\n\n---\n\n## Pipeline Architecture & Implementation Details",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\n(Source: .github/workflows/smoke-test.yml)`\n\n---\n\n## Pipeline Architecture & Implementation Details\nThe system transforms raw pseudonymized search and engagement analytics into a prioritized, actionable queue of pages requiring content refresh.",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\nand engagement analytics into a prioritized, actionable queue of pages requiring content refresh.\n```\ndata/raw/content_refresh_anonymized.csv (30,000 rows × 44 columns)\n                      │\n                      ▼\n 01_prepare_features.py ──> Cleans data, handles missing values, builds feature vector (52 cols), defines target\n                      │\n                      ▼\n 02_baseline_score.py   ──> Builds non-leaky deterministic hand-rule score + reason codes\n                      │\n                      ▼\n 03_train_model.py      ──> Trains 3 models (Logistic Regression, Decision Tree, Random Forest) via client-holdout split\n                      │\n                      ▼\n 04_evaluate_and_export.py ──> Blends model proba (70%) + baseline score (30%) → Ranked queue, charts, Markdown\n                      │\n                      ▼\n 05_build_pdf_report.py  ──> Renders executive PDF summary (`outputs/flyrank_refresh_model_results.pdf`)\n```\n`VERIFIED (Source: GUIDE.md, scripts/run_all.py)`",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\n(`outputs/flyrank_refresh_model_results.pdf`)\n```\n`VERIFIED (Source: GUIDE.md, scripts/run_all.py)`\n### 1. Feature Engineering & Preparation (`01_prepare_features.py`)\n- **Input Data Filtering:** Filters pages with `impressions_90d > 0` and `content_age_days >= 90` to remove low-activity or brand-new content `VERIFIED (Source: scripts/01_prepare_features.py)`.\n- **Target Definition:** Binary label `is_declining_label = (trend_direction == \"down\")` `VERIFIED (Source: scripts/01_prepare_features.py)`.\n- **Feature Transforms:** Applied `log1p` transformation to heavily skewed counts (`log_impressions_90d`, `log_clicks_90d`, `log_sessions_90d`, `log_ai_sessions_90d`), engineered flag variables (`has_clicks`, `has_ai_sessions`, `measurable_opportunity`), and handled systematic missingness across categorical and numerical attributes `VERIFIED (Source: scripts/01_prepare_features.py)`.",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\nacross categorical and numerical attributes `VERIFIED (Source: scripts/01_prepare_features.py)`.\n### 2. Baseline Heuristic Scoring (`02_baseline_score.py`)\n- Provides a transparent, non-learned baseline to beat `VERIFIED (Source: GUIDE.md)`.\n- **Score Formula:**\n  $$\\text{Baseline Score} = 0.40 \\cdot \\text{Visibility} + 0.30 \\cdot \\text{FreshnessRisk} + 0.25 \\cdot \\text{PositionOpportunity} + 0.05 \\cdot \\text{DepthGap}$$\n  `VERIFIED (Source: scripts/02_baseline_score.py)`\n- Attaches heuristic reason codes (e.g., `stale_visible_page`, `declining_with_demand`, `thin_visible_page`, `page_one_decay_risk`) `VERIFIED (Source: scripts/02_baseline_score.py)`.",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\n`thin_visible_page`, `page_one_decay_risk`) `VERIFIED (Source: scripts/02_baseline_score.py)`.\n### 3. Model Training & Client-Holdout Validation (`03_train_model.py`)\n- **Group-Aware Splitting:** Implements a client-holdout split (`make_client_aware_split`) holding out ~20% of clients to prevent data leakage between pages of the same client in training and testing sets `VERIFIED (Source: scripts/03_train_model.py, GUIDE.md)`.\n- **Models Evaluated:**\n  1. `LogisticRegression` with `StandardScaler` and balanced class weights `VERIFIED (Source: scripts/03_train_model.py)`.\n  2. `DecisionTreeClassifier` (`max_depth=5`, `min_samples_leaf=50`) `VERIFIED (Source: scripts/03_train_model.py)`.\n  3. `RandomForestClassifier` (`n_estimators=200`, `max_depth=10`, `min_samples_leaf=25`) `VERIFIED (Source: scripts/03_train_model.py)`.",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\n`max_depth=10`, `min_samples_leaf=25`) `VERIFIED (Source: scripts/03_train_model.py)`.\n### 4. Hybrid Blending & Recommendation Queuing (`04_evaluate_and_export.py`)\n- **Ensemble Score:** Combines machine learning probability predictions with the normalized rule baseline score:\n  $$\\text{Final Refresh Score} = 100 \\times (0.70 \\cdot P(\\text{decline}) + 0.30 \\cdot \\text{Normalized Baseline Score})$$\n  `VERIFIED (Source: scripts/04_evaluate_and_export.py, docs/ml-intern-dataset-and-lane-guide.md)`\n- Categorizes confidence levels (`high`, `medium`, `low`) and assigns actionable editor instructions (`refresh`, `refresh_and_review_ctr`, `refresh_and_review_engagement`, `expand_and_refresh`, `monitor`) `VERIFIED (Source: scripts/04_evaluate_and_export.py)`.",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\n`expand_and_refresh`, `monitor`) `VERIFIED (Source: scripts/04_evaluate_and_export.py)`.\n### 5. Large-Scale Data Handling via DuckDB (`notebooks/03_working_with_the_full_release.ipynb`)\n- Enables memory-efficient analytical queries over ~79 million hosted daily performance records (`FlyRank/internship-warehouse` on Hugging Face) using SQL streaming over Parquet without requiring full local downloads `VERIFIED (Source: notebooks/03_working_with_the_full_release.ipynb, docs/ml-intern-dataset-and-lane-guide.md)`.\n\n---\n\n## Datasets & Data Governance",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\ndocs/ml-intern-dataset-and-lane-guide.md)`.\n\n---\n\n## Datasets & Data Governance\n### Datasets Analyzed\n1. **Bundled Starter Dataset (`data/raw/content_refresh_anonymized.csv`):**\n   - 30,000 pseudonymized web pages across 32 clients `VERIFIED (Source: docs/data-dictionary.md)`.\n   - 44 raw columns covering Google Search Console (impressions, clicks, average position), Google Analytics 4 (sessions, engaged sessions, AI-referred sessions, scroll events), metadata (word count, content age, updates), and derived rate metrics `VERIFIED (Source: docs/data-dictionary.md)`.\n2. **Full Warehouse Release (`FlyRank/internship-warehouse`):**\n   - `dim_clients` (104 rows) `VERIFIED (Source: docs/ml-intern-dataset-and-lane-guide.md)`\n   - `dim_content` (519,606 rows) `VERIFIED (Source: docs/ml-intern-dataset-and-lane-guide.md)`\n   - `fact_content_daily_performance` (78,835,655 rows daily performance) `VERIFIED (Source: docs/ml-intern-dataset-and-lane-guide.md)`",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\n(78,835,655 rows daily performance) `VERIFIED (Source: docs/ml-intern-dataset-and-lane-guide.md)`\n   - `fact_content_query_90d` (2,414,248 rows query context) `VERIFIED (Source: docs/ml-intern-dataset-and-lane-guide.md)`\n\n### Data Privacy & Leakage Guarding\n- **Privacy Rules:** The dataset strictly contains no raw client names, domains, URLs, titles, or raw search queries. All identifiers (`content_id`, `client_id`) are cryptographic pseudonyms `VERIFIED (Source: DATA_USE.md)`.\n- **Target Leakage Prevention:** Label-source fields (`trend_direction`, `trend_pct`) are explicitly excluded from model features `VERIFIED (Source: GUIDE.md, notebooks/02_your_first_readable_model.ipynb)`.\n- **Automated CI Leak Check:** GitHub Actions workflow fails if dataset archives (`.parquet`, `.zip`, `.feather`) or unapproved `.csv` files are committed to git `VERIFIED (Source: .github/workflows/smoke-test.yml)`.\n\n---\n\n## Experimental Evaluation & Results\n\nThe models were evaluated against the target label `is_declining_label` on a holdout evaluation set.\n\n### Model Performance Benchmark",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\nthe target label `is_declining_label` on a holdout evaluation set.\n\n### Model Performance Benchmark\n| Model | ROC AUC | Avg Precision | Precision@50 | Recall | F1 Score |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| **Baseline Rules** | 0.627 | 0.468 | 0.240 | — | — |\n| **Logistic Regression** | 0.700 | 0.522 | 0.400 | 0.567 | 0.566 |\n| **Decision Tree** | 0.742 | 0.575 | 0.540 | 0.716 | 0.634 |\n| **Random Forest (Best)** | **0.750** | **0.618** | **0.740** | **0.744** | **0.640** |\n\n`VERIFIED (Source: outputs/model_report.md)`",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\n| **0.618** | **0.740** | **0.744** | **0.640** |\n\n`VERIFIED (Source: outputs/model_report.md)`\n### Key Findings\n- **3x Lift in Precision@50:** The Random Forest achieved a Precision@50 of **0.740** compared to the baseline rule's **0.240**, meaning 37 out of the top 50 flagged pages were confirmed declining pages (versus 12 for the baseline rule) `VERIFIED (Source: outputs/model_report.md, docs/ml-intern-dataset-and-lane-guide.md)`.\n- **Top Feature Drivers:**\n  1. `days_with_impressions` (Importance: 0.1578) `VERIFIED (Source: outputs/model_report.md)`\n  2. `log_impressions_90d` (Importance: 0.1282) `VERIFIED (Source: outputs/model_report.md)`\n  3. `avg_position` (Importance: 0.1090) `VERIFIED (Source: outputs/model_report.md)`\n  4. `content_age_days` (Importance: 0.0955) `VERIFIED (Source: outputs/model_report.md)`\n  5. `char_count` (Importance: 0.0426) `VERIFIED (Source: outputs/model_report.md)`\n  6. `word_count` (Importance: 0.0397) `VERIFIED (Source: outputs/model_report.md)`\n\n---\n\n## Key Technical Best Practices Demonstrated",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 12
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\n`VERIFIED (Source: outputs/model_report.md)`\n\n---\n\n## Key Technical Best Practices Demonstrated\n1. **Client-Holdout Cross-Validation:** Avoiding row-level random splits when data contains multiple rows per client, preventing client memorization `VERIFIED (Source: scripts/03_train_model.py, GUIDE.md)`.\n2. **Explicit Target Leakage Guarding:** Demonstrated that including target-derived metrics (`trend_pct`) inflates accuracy artificially while destroying generalization `VERIFIED (Source: notebooks/02_your_first_readable_model.ipynb)`.\n3. **Out-of-Core Analytical Querying:** Leveraging DuckDB over Hugging Face Parquet streams to query 79M+ records in under 100MB of RAM `VERIFIED (Source: notebooks/03_working_with_the_full_release.ipynb)`.\n4. **End-to-End Execution Pipeline:** Automated pipeline executable in under 1 minute (`python scripts/run_all.py`), producing reproducible outputs, SVG visualizations, Markdown reports, and PDF documents `VERIFIED (Source: GUIDE.md, scripts/run_all.py)`.\n\n---\n\n## Repository Structure",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 13
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\nand PDF documents `VERIFIED (Source: GUIDE.md, scripts/run_all.py)`.\n\n---\n\n## Repository Structure\n```text\n.\n├── .github/workflows/         # CI/CD: Pipeline smoke test & data leak checker\n├── data/\n│   ├── raw/                   # Anonymized starter dataset (30,000 rows × 44 columns)\n│   └── processed/             # Feature vector and baseline queue (gitignored)\n├── docs/                      # Core foundation framework, data dictionary, lane guides\n├── notebooks/\n│   ├── 01_first_look_and_discovery.ipynb\n│   ├── 02_your_first_readable_model.ipynb\n│   └── 03_working_with_the_full_release.ipynb\n├── outputs/                   # Generated reports, charts (SVG), and final PDF output\n├── scripts/\n│   ├── 01_prepare_features.py\n│   ├── 02_baseline_score.py\n│   ├── 03_train_model.py\n│   ├── 04_evaluate_and_export.py\n│   ├── 05_build_pdf_report.py\n│   ├── ml_utils.py\n│   └── run_all.py             # Orchestrates the complete pipeline execution\n├── work/                      # Sandbox space for user capstone work and custom models",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 14
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SEO-ML (project_detail)\nTitle: Seo Ml\nURL: /projects/SEO-ML\nContent Chunk:\nexecution\n├── work/                      # Sandbox space for user capstone work and custom models\n├── DATA_USE.md                # Public safety & data governance rules\n├── GUIDE.md                   # System operation guide\n└── requirements.txt           # Dependency definition\n```\n`VERIFIED (Source: GUIDE.md, README.md)`",
+    "metadata": {
+      "source": "knowledge/projects/SEO-ML",
+      "title": "Seo Ml",
+      "type": "project_detail",
+      "url": "/projects/SEO-ML",
+      "chunk_index": 15
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SkinDetection (project_detail)\nTitle: Skindetection\nURL: /projects/SkinDetection\nContent Chunk:\n---\ntitle: SkinDetection\ntype: project\nclassification: PORTFOLIO_PROJECT\nlast_commit: fa766fe549a284bae1c061a362a920b2889048ad\n---\n\n# Skin Color Detection Using Chromaticity\n\n## Project Overview\n\nThe **SkinDetection** repository implements a computer vision pipeline for detecting skin regions in images using chromaticity-space statistics and probabilistic thresholding. Built in Python using OpenCV and NumPy, the project models skin color distribution using normalized red and green chromaticity components `(r, g)` and applies Mahalanobis distance to classify pixels in unseen test images VERIFIED (Source: README.md).\n\n## Tech Stack & Requirements\n\n- **Primary Language**: Jupyter Notebook / Python VERIFIED (Source: README.md)\n- **Dependencies**:\n  - Python 3.8+ VERIFIED (Source: README.md)\n  - OpenCV (`cv2`) VERIFIED (Source: README.md)\n  - NumPy VERIFIED (Source: README.md)\n  - Matplotlib VERIFIED (Source: README.md)\n\n## Repository Structure",
+    "metadata": {
+      "source": "knowledge/projects/SkinDetection",
+      "title": "Skindetection",
+      "type": "project_detail",
+      "url": "/projects/SkinDetection",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SkinDetection (project_detail)\nTitle: Skindetection\nURL: /projects/SkinDetection\nContent Chunk:\nVERIFIED (Source: README.md)\n  - Matplotlib VERIFIED (Source: README.md)\n\n## Repository Structure\n- `final.ipynb`: Notebook containing the workflow for ROI selection, color conversion, model fitting, and skin detection evaluation VERIFIED (Source: README.md).\n- `Images/train/`: Directory containing training images used for interactive ROI selection VERIFIED (Source: README.md).\n- `Images/test/`: Directory containing test images for evaluating skin segmentation VERIFIED (Source: README.md).\n- `all_skin_pixels.npy`: Pre-saved 2D NumPy array containing extracted skin chromaticity coordinates `(r, g)` for reproducibility VERIFIED (Source: README.md).\n\n## Algorithm & Implementation Details\n\n### 1. Chromaticity Conversion\nTo reduce sensitivity to illumination intensity variations, RGB pixels are converted to normalized chromaticity space VERIFIED (Source: README.md):\n$$r = \\frac{R}{R + G + B}$$\n$$g = \\frac{G}{R + G + B}$$",
+    "metadata": {
+      "source": "knowledge/projects/SkinDetection",
+      "title": "Skindetection",
+      "type": "project_detail",
+      "url": "/projects/SkinDetection",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SkinDetection (project_detail)\nTitle: Skindetection\nURL: /projects/SkinDetection\nContent Chunk:\nspace VERIFIED (Source: README.md):\n$$r = \\frac{R}{R + G + B}$$\n$$g = \\frac{G}{R + G + B}$$\n### 2. ROI Sampling & Feature Extraction\n- Users manually select skin regions in training images using `cv2.selectROI` VERIFIED (Source: README.md).\n- Extracted ROI pixels are transformed to chromaticity space and flattened into `all_skin_pixels` VERIFIED (Source: README.md).\n\n### 3. Outlier Filtering\n- Filtering removes noise by retaining pixels within valid chromaticity bounds VERIFIED (Source: README.md):\n  - $0.3 \\le r \\le 0.6$ VERIFIED (Source: README.md)\n  - $0.2 \\le g \\le 0.5$ VERIFIED (Source: README.md)\n\n### 4. Statistical Modeling\n- **Mean Vector (`mean_skin`)**: Mean chromaticity vector of skin pixels VERIFIED (Source: README.md).\n- **Covariance Matrix (`cov_skin`)**: Covariance matrix representing variance and correlation across $r$ and $g$ components VERIFIED (Source: README.md).\n- **Inverse Covariance (`inv_cov_skin`)**: Computed for Mahalanobis distance evaluation VERIFIED (Source: README.md).",
+    "metadata": {
+      "source": "knowledge/projects/SkinDetection",
+      "title": "Skindetection",
+      "type": "project_detail",
+      "url": "/projects/SkinDetection",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SkinDetection (project_detail)\nTitle: Skindetection\nURL: /projects/SkinDetection\nContent Chunk:\n(`inv_cov_skin`)**: Computed for Mahalanobis distance evaluation VERIFIED (Source: README.md).\n### 5. Detection & Thresholding\n- For each test image pixel, the Mahalanobis distance to the skin distribution is calculated VERIFIED (Source: README.md).\n- Pixels with a Mahalanobis distance below a specified threshold (e.g., 2.0) are classified as skin VERIFIED (Source: README.md).\n\n### 6. Visualization Output\nThe system generates inline visualizations comparing VERIFIED (Source: README.md):\n- Original image VERIFIED (Source: README.md)\n- Binary detected skin mask VERIFIED (Source: README.md)\n- Skin-only extracted image VERIFIED (Source: README.md)\n- Non-skin masked background image VERIFIED (Source: README.md)\n\n## Dataset & Evaluation",
+    "metadata": {
+      "source": "knowledge/projects/SkinDetection",
+      "title": "Skindetection",
+      "type": "project_detail",
+      "url": "/projects/SkinDetection",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SkinDetection (project_detail)\nTitle: Skindetection\nURL: /projects/SkinDetection\nContent Chunk:\nREADME.md)\n- Non-skin masked background image VERIFIED (Source: README.md)\n\n## Dataset & Evaluation\n- **Dataset**: Custom image dataset structured in `Images/train/` and `Images/test/` supporting `.jpg`, `.jpeg`, and `.png` image formats VERIFIED (Source: README.md).\n- **Evaluation Metrics**: Quantitative evaluation metrics (such as Precision, Recall, or IoU) are UNKNOWN (Source: README.md does not specify quantitative metrics). Results are evaluated visually via inline Matplotlib plots VERIFIED (Source: README.md).\n\n## Customization & Troubleshooting",
+    "metadata": {
+      "source": "knowledge/projects/SkinDetection",
+      "title": "Skindetection",
+      "type": "project_detail",
+      "url": "/projects/SkinDetection",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/SkinDetection (project_detail)\nTitle: Skindetection\nURL: /projects/SkinDetection\nContent Chunk:\nvia inline Matplotlib plots VERIFIED (Source: README.md).\n\n## Customization & Troubleshooting\n- **Hyperparameter Tuning**: Precision and recall can be adjusted by tuning the Mahalanobis distance `threshold` in `detect_skin()` or modifying chromaticity bounding boxes VERIFIED (Source: README.md).\n- **Singular Covariance Handling**: If `cov_skin` becomes singular during execution, diagonal regularization (adding a small $\\epsilon$ to the diagonal) or adding more training ROI samples resolves the issue VERIFIED (Source: README.md).\n- **GUI Handling**: Calling `cv2.destroyAllWindows()` handles unclosed ROI selector windows during interactive labeling VERIFIED (Source: README.md).",
+    "metadata": {
+      "source": "knowledge/projects/SkinDetection",
+      "title": "Skindetection",
+      "type": "project_detail",
+      "url": "/projects/SkinDetection",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/Sri-Lanka-Gateway---Tourism-Website (project_detail)\nTitle: Sri Lanka Gateway   Tourism Website\nURL: /projects/Sri-Lanka-Gateway---Tourism-Website\nContent Chunk:\n---\ntitle: Sri-Lanka-Gateway---Tourism-Website\ntype: project\nclassification: NEEDS_REVIEW\nlast_commit: ca734114b29029829a94185a8c14e2fa3031550a\n---\n\n# Sri-Lanka-Gateway---Tourism-Website\n\nAnalysis failed: 503 Service Unavailable. {'message': '{\\n  \"error\": {\\n    \"code\": 503,\\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\\n    \"status\": \"UNAVAILABLE\"\\n  }\\n}\\n', 'status': 'Service Unavailable'}",
+    "metadata": {
+      "source": "knowledge/projects/Sri-Lanka-Gateway---Tourism-Website",
+      "title": "Sri Lanka Gateway   Tourism Website",
+      "type": "project_detail",
+      "url": "/projects/Sri-Lanka-Gateway---Tourism-Website",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\n---\ntitle: task-management\ntype: project\nclassification: PORTFOLIO_PROJECT\nlast_commit: 852a73c3a47d67e1f2de1adf888ccfc2416968c4\n---\n\n# Task Management REST API\n\nA role-based Task Management REST API built with Django REST Framework and PostgreSQL, featuring JWT authentication, role-based access control (RBAC), automatic activity logging using Django signals with Python `contextvars`, soft deletion for tasks, and automated API testing.\n\n## Summary",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\nsignals with Python `contextvars`, soft deletion for tasks, and automated API testing.\n\n## Summary\n- **Repository Name**: task-management\n- **Author / Owner**: ravindidhananjana VERIFIED (Source: URL)\n- **Primary Technology Stack**: Python 3.11, Django 5.2, Django REST Framework 3.18, PostgreSQL, SimpleJWT, `django-filter` VERIFIED (Source: README.md, requirements.txt)\n- **Key Features**: Custom User model with Admin/Member roles, JWT authentication with token blacklisting logout, soft delete for tasks, Django signal-driven activity logging with context tracking, filtering, ordering, pagination, and automated test suite. VERIFIED (Source: README.md, project files)\n\n---\n\n## Technical Stack & Dependencies",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\ntest suite. VERIFIED (Source: README.md, project files)\n\n---\n\n## Technical Stack & Dependencies\n- **Language**: Python 3.11 VERIFIED (Source: README.md)\n- **Framework**: Django 5.2.17, Django REST Framework 3.18.0 VERIFIED (Source: requirements.txt)\n- **Database**: PostgreSQL (connected via `psycopg` 3.3.4) VERIFIED (Source: README.md, requirements.txt, config/settings.py)\n- **Authentication**: `rest_framework_simplejwt` 5.5.1, `PyJWT` 2.13.0 VERIFIED (Source: requirements.txt, config/settings.py)\n- **Query Filtering**: `django-filter` 26.1 VERIFIED (Source: requirements.txt, config/settings.py)\n- **Environment Management**: `python-dotenv` 1.2.2 VERIFIED (Source: requirements.txt, config/settings.py)\n\n---\n\n## Project Architecture & Implementation Details\n\n### 1. Data Models (`accounts`, `projects`, `activity_logs`)",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\nArchitecture & Implementation Details\n\n### 1. Data Models (`accounts`, `projects`, `activity_logs`)\n- **Custom User Model (`accounts/models.py`)**:\n  - Extends `AbstractUser` with a custom `role` field using `TextChoices` (`ADMIN` or `MEMBER`). Defaults to `MEMBER`. VERIFIED (Source: accounts/models.py)\n- **Project Model (`projects/models.py`)**:\n  - Contains `name`, `description`, `owner` (ForeignKey to `User`), and `created_at`. VERIFIED (Source: projects/models.py)\n- **Task Model (`projects/models.py`)**:\n  - Contains `title`, `description`, `status` (`TODO`, `IN_PROGRESS`, `DONE`), `priority` (`LOW`, `MEDIUM`, `HIGH`), `assigned_to` (ForeignKey to `User`), `project` (ForeignKey to `Project`), `due_date`, `is_deleted` (Boolean soft-delete flag, defaults to `False`), `created_at`, and `updated_at`. VERIFIED (Source: projects/models.py)\n- **ActivityLog Model (`activity_logs/models.py`)**:",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\nVERIFIED (Source: projects/models.py)\n- **ActivityLog Model (`activity_logs/models.py`)**:\n  - Tracks user activity with `user` (ForeignKey to `User`), `action` (`CREATE`, `UPDATE`, `DELETE`), `model_name` (CharField), `object_id` (PositiveBigIntegerField), and `timestamp`. VERIFIED (Source: activity_logs/models.py)\n\n### 2. Context Tracking for Django Signals (`core/activity_context.py` & `activity_logs/signals.py`)",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\n2. Context Tracking for Django Signals (`core/activity_context.py` & `activity_logs/signals.py`)\n- **Problem Addressed**: Django database signals (`post_save`, `post_delete`) do not natively have access to the current HTTP `request.user`. INFERRED\n- **Implementation**:\n  - Uses Python's native `contextvars` module (`activity_context.py`) to manage a thread/task-local `_current_user` variable. VERIFIED (Source: core/activity_context.py)\n  - ViewSets (`ProjectViewSet`, `TaskViewSet`) invoke `set_current_user(self.request.user)` inside `perform_create`, `perform_update`, and `perform_destroy` methods before performing model persistence, resetting the token in a `finally` block. VERIFIED (Source: projects/views.py)\n  - Django signal receivers (`log_project_save`, `log_project_delete`, `log_task_save`) call `get_current_user()` to record the acting user in `ActivityLog`. VERIFIED (Source: activity_logs/signals.py)\n\n### 3. Role-Based Access Control (RBAC) & Permissions (`core/permissions.py`)",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\n3. Role-Based Access Control (RBAC) & Permissions (`core/permissions.py`)\n- **`IsAdminOrTaskMember`**:\n  - `ADMIN` role: Full permissions for all HTTP methods (CREATE, READ, UPDATE, DELETE). VERIFIED (Source: core/permissions.py)\n  - `MEMBER` role:\n    - Can list and create tasks (POST). When a Member creates a task, it is automatically assigned to them via `perform_create`. VERIFIED (Source: core/permissions.py, projects/views.py)\n    - Can update (PUT/PATCH) tasks only if `assigned_to == request.user`. VERIFIED (Source: core/permissions.py)\n    - Cannot update tasks assigned to other users. VERIFIED (Source: core/permissions.py, projects/tests.py)\n    - Cannot delete tasks (DELETE is strictly forbidden for Members). VERIFIED (Source: core/permissions.py)\n- **`IsAdminOrReadOnly`**:\n  - Admin users have full CRUD access over `Project` resources.\n  - Member users have read-only (`GET`, `HEAD`, `OPTIONS`) access to projects. VERIFIED (Source: core/permissions.py)\n\n### 4. Soft Delete Pattern (`projects/views.py`)",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\nprojects. VERIFIED (Source: core/permissions.py)\n\n### 4. Soft Delete Pattern (`projects/views.py`)\n- When a `DELETE` request is sent to `TaskViewSet`:\n  - `perform_destroy` flags the instance attribute `instance._activity_delete = True` and sets `instance.is_deleted = True`, persisting the change with `save(update_fields=[\"is_deleted\"])` rather than invoking SQL `DELETE`. VERIFIED (Source: projects/views.py)\n  - Signal receiver `log_task_save` checks `getattr(instance, \"_activity_delete\", False)` to log a `DELETE` action in `ActivityLog`. VERIFIED (Source: activity_logs/signals.py)\n  - Standard queries exclude soft-deleted items because `TaskViewSet` overrides `queryset = Task.objects.filter(is_deleted=False)`. VERIFIED (Source: projects/views.py)\n\n### 5. Filtering, Ordering, Search, & Pagination (`projects/views.py`, `config/settings.py`)",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\n5. Filtering, Ordering, Search, & Pagination (`projects/views.py`, `config/settings.py`)\n- **Pagination**: Default page size of 10 items using `PageNumberPagination`. VERIFIED (Source: config/settings.py)\n- **Filtering**: `DjangoFilterBackend` supports filtering tasks by `status`, `priority`, `assigned_to`, and `project`. VERIFIED (Source: projects/views.py)\n- **Search**: `SearchFilter` enables text search across `title` and `description`. VERIFIED (Source: projects/views.py)\n- **Ordering**: `OrderingFilter` allows sorting by `created_at`, `updated_at`, `due_date`, `priority`, `status`, and `title`. Default ordering is `-created_at`. VERIFIED (Source: projects/views.py)\n\n---\n\n## API Endpoints Summary",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\nordering is `-created_at`. VERIFIED (Source: projects/views.py)\n\n---\n\n## API Endpoints Summary\n| Method | Endpoint | Description | Permission Required | Source |\n|---|---|---|---|---|\n| `POST` | `/api/v1/auth/login/` | Obtain JWT access & refresh tokens | AllowAny | VERIFIED (Source: config/urls.py) |\n| `POST` | `/api/v1/auth/refresh/` | Refresh JWT access token | AllowAny | VERIFIED (Source: config/urls.py) |\n| `POST` | `/api/v1/auth/logout/` | Blacklist refresh token & logout | IsAuthenticated | VERIFIED (Source: core/urls.py, core/views.py) |\n| `GET` / `POST` | `/api/v1/projects/` | List or create projects | IsAdminOrReadOnly | VERIFIED (Source: projects/urls.py, projects/views.py) |\n| `GET` / `PUT` / `PATCH` / `DELETE` | `/api/v1/projects/{id}/` | Detail endpoints for projects | IsAdminOrReadOnly | VERIFIED (Source: projects/urls.py, projects/views.py) |\n| `GET` / `POST` | `/api/v1/tasks/` | List or create tasks | IsAdminOrTaskMember | VERIFIED (Source: projects/urls.py, projects/views.py) |",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\nor create tasks | IsAdminOrTaskMember | VERIFIED (Source: projects/urls.py, projects/views.py) |\n| `GET` / `PUT` / `PATCH` / `DELETE` | `/api/v1/tasks/{id}/` | Detail endpoints for tasks (DELETE is soft delete) | IsAdminOrTaskMember | VERIFIED (Source: projects/urls.py, projects/views.py) |\n| `GET` | `/api/v1/activity-logs/` | List activity logs (Admins see all; Members see own) | IsAuthenticated | VERIFIED (Source: projects/urls.py, activity_logs/views.py) |\n\n---\n\n## Testing & Quality Assurance",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 10
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\nVERIFIED (Source: projects/urls.py, activity_logs/views.py) |\n\n---\n\n## Testing & Quality Assurance\n- **Test Suite**: Located in `projects/tests.py` using DRF `APITestCase`. VERIFIED (Source: projects/tests.py)\n- **Total Test Cases**: 7 automated tests. VERIFIED (Source: README.md, projects/tests.py)\n- **Verified Scenarios**:\n  1. `test_login`: Verifies JWT login returns access and refresh tokens. VERIFIED (Source: projects/tests.py)\n  2. `test_member_can_create_task`: Confirms member task creation automatically sets `assigned_to` to the calling member. VERIFIED (Source: projects/tests.py)\n  3. `test_member_cannot_update_unassigned_task`: Verifies HTTP 403 Forbidden when a member attempts to modify another user's task. VERIFIED (Source: projects/tests.py)\n  4. `test_task_delete_is_soft_delete`: Asserts soft-delete sets `is_deleted = True` and removes the item from API list views. VERIFIED (Source: projects/tests.py)\n  5. `test_activity_log_created_for_task_creation`: Ensures `ActivityLog` creation entry is saved with appropriate user reference. VERIFIED (Source: projects/tests.py)",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 11
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\ncreation entry is saved with appropriate user reference. VERIFIED (Source: projects/tests.py)\n  6. `test_activity_log_created_for_task_update`: Verifies `ActivityLog` update entry creation. VERIFIED (Source: projects/tests.py)\n  7. `test_activity_log_created_for_task_delete`: Verifies `ActivityLog` delete entry creation upon soft deletion. VERIFIED (Source: projects/tests.py)\n\n---\n\n## Author Contributions",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 12
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/task-management (project_detail)\nTitle: Task Management\nURL: /projects/task-management\nContent Chunk:\ncreation upon soft deletion. VERIFIED (Source: projects/tests.py)\n\n---\n\n## Author Contributions\n- **Repository Owner**: Ravindi Dhananjana (`ravindidhananjana`) VERIFIED (Source: README.md, URL)\n- **Core Implementation**:\n  - Designed custom user role system (`ADMIN` vs `MEMBER`). VERIFIED (Source: accounts/models.py)\n  - Implemented decoupling mechanism for Django signals using Python `contextvars` context manager. VERIFIED (Source: core/activity_context.py)\n  - Developed custom DRF granular permission classes (`IsAdminOrTaskMember`, `IsAdminOrReadOnly`). VERIFIED (Source: core/permissions.py)\n  - Built task soft deletion workflow integrated with activity logging. VERIFIED (Source: projects/views.py, activity_logs/signals.py)\n  - Authored automated integration test suite covering RBAC, soft deletion, and signal logging. VERIFIED (Source: projects/tests.py)",
+    "metadata": {
+      "source": "knowledge/projects/task-management",
+      "title": "Task Management",
+      "type": "project_detail",
+      "url": "/projects/task-management",
+      "chunk_index": 13
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/textClassification (project_detail)\nTitle: Textclassification\nURL: /projects/textClassification\nContent Chunk:\n---\ntitle: textClassification\ntype: project\nclassification: PORTFOLIO_PROJECT\nlast_commit: 743a57dd5c2fcc3e1e867c2e9ec88b8cb3c9c154\n---\n\n# Text Classification Project\n\n## Overview\nThe `textClassification` repository implements an end-to-end NLP text classification workflow in a Jupyter Notebook (`final_fixed.ipynb`) VERIFIED (Source: README.md). The project focuses on classifying news articles into categories by preprocessing textual data, extracting features using Bag-of-Words and TF-IDF, training multiple Machine Learning models, selecting the best-performing model, and generating predictions on an unlabeled test set VERIFIED (Source: README.md).\n\n## Implementation Details & Technology Stack",
+    "metadata": {
+      "source": "knowledge/projects/textClassification",
+      "title": "Textclassification",
+      "type": "project_detail",
+      "url": "/projects/textClassification",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/textClassification (project_detail)\nTitle: Textclassification\nURL: /projects/textClassification\nContent Chunk:\nan unlabeled test set VERIFIED (Source: README.md).\n\n## Implementation Details & Technology Stack\n- **Primary Language & Tools**: Python, Jupyter Notebook VERIFIED (Source: Metadata, README.md).\n- **Machine Learning Library**: `scikit-learn` VERIFIED (Source: README.md).\n- **Text Preprocessing**:\n  - Lowercasing VERIFIED (Source: README.md).\n  - Removing non-letter characters VERIFIED (Source: README.md).\n  - Collapsing extra whitespace VERIFIED (Source: README.md).\n- **Feature Engineering**:\n  - Bag-of-Words via `CountVectorizer` VERIFIED (Source: README.md).\n  - Term Frequency-Inverse Document Frequency via `TfidfVectorizer` VERIFIED (Source: README.md).\n\n## Datasets & Pipeline Architecture",
+    "metadata": {
+      "source": "knowledge/projects/textClassification",
+      "title": "Textclassification",
+      "type": "project_detail",
+      "url": "/projects/textClassification",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/textClassification (project_detail)\nTitle: Textclassification\nURL: /projects/textClassification\nContent Chunk:\nFrequency via `TfidfVectorizer` VERIFIED (Source: README.md).\n\n## Datasets & Pipeline Architecture\n### Pipeline Workflow\n1. **Data Ingestion**: Load tab-separated (`\\t`) dataset from `trainset.txt` VERIFIED (Source: README.md).\n2. **Data Cleaning**: Inspect entries and remove invalid or empty text entries VERIFIED (Source: README.md).\n3. **Preprocessing**: Apply text normalization steps (lowercasing, character filtering, whitespace collapsing) VERIFIED (Source: README.md).\n4. **Feature Extraction**: Generate feature representations using both `CountVectorizer` and `TfidfVectorizer` VERIFIED (Source: README.md).\n5. **Model Evaluation**: Train and evaluate candidate classification models VERIFIED (Source: README.md).\n6. **Model Retraining**: Select the best model based on comparative evaluation metrics and retrain it on the full labeled dataset VERIFIED (Source: README.md).\n7. **Inference & Export**: Generate predictions on `testsetwithoutlabels.txt` and export predictions to `predictions.csv` with a single `Predicted_Label` column VERIFIED (Source: README.md).",
+    "metadata": {
+      "source": "knowledge/projects/textClassification",
+      "title": "Textclassification",
+      "type": "project_detail",
+      "url": "/projects/textClassification",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/textClassification (project_detail)\nTitle: Textclassification\nURL: /projects/textClassification\nContent Chunk:\nto `predictions.csv` with a single `Predicted_Label` column VERIFIED (Source: README.md).\n### Datasets\n- **Training Set (`trainset.txt`)**: Tab-separated dataset containing columns `Class`, `Title`, `Date`, and `Body` VERIFIED (Source: README.md).\n- **Test Set (`testsetwithoutlabels.txt`)**: Unlabeled tab-separated dataset containing columns `Title`, `Date`, and `Body` VERIFIED (Source: README.md).\n- **Output (`predictions.csv`)**: CSV output file containing predictions under the column `Predicted_Label` VERIFIED (Source: README.md).\n\n## Experiments and Models Evaluated\n\nThe project benchmarks four model/feature combinations VERIFIED (Source: README.md):\n1. **Multinomial Naive Bayes** with **Bag-of-Words (`CountVectorizer`)** VERIFIED (Source: README.md).\n2. **Multinomial Naive Bayes** with **TF-IDF (`TfidfVectorizer`)** VERIFIED (Source: README.md).\n3. **Logistic Regression** with **Bag-of-Words (`CountVectorizer`)** VERIFIED (Source: README.md).\n4. **Logistic Regression** with **TF-IDF (`TfidfVectorizer`)** VERIFIED (Source: README.md).",
+    "metadata": {
+      "source": "knowledge/projects/textClassification",
+      "title": "Textclassification",
+      "type": "project_detail",
+      "url": "/projects/textClassification",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/textClassification (project_detail)\nTitle: Textclassification\nURL: /projects/textClassification\nContent Chunk:\n**Logistic Regression** with **TF-IDF (`TfidfVectorizer`)** VERIFIED (Source: README.md).\n### Evaluation Results\n- Specific numerical accuracy scores or evaluation metrics for each model variant are UNKNOWN as they are not explicitly detailed in the provided README.md file.\n\n## Key Challenges and Solutions\n- **Handling Unlabeled Test Data**: The pipeline handles end-to-end evaluation and retraining on the full labeled dataset prior to predicting on unlabeled test data VERIFIED (Source: README.md).\n- **Data Quality**: The workflow explicitly includes validation to remove empty or invalid entries before feature extraction VERIFIED (Source: README.md).\n\n## Author's Contribution\n- Developed the data processing and training pipeline within `final_fixed.ipynb` INFERRED (Source: README.md).\n- Implemented data pre-processing, vectorization experiments, model benchmarking, and inference generation VERIFIED (Source: README.md).",
+    "metadata": {
+      "source": "knowledge/projects/textClassification",
+      "title": "Textclassification",
+      "type": "project_detail",
+      "url": "/projects/textClassification",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/weather-ml (project_detail)\nTitle: Weather Ml\nURL: /projects/weather-ml\nContent Chunk:\n---\ntitle: weather-ml\ntype: project\nclassification: PORTFOLIO_PROJECT\nlast_commit: 6a93af7e3bf1f2c3d8a3f3ff30d943ba5c3f387d\n---\n\n# Weather-ML: 7-Day Temperature Forecasting System\n\n## Executive Summary\n\n**Weather-ML** is a full-stack, time-series machine learning web application that provides a 7-day daily average temperature forecast for Kandy, Sri Lanka VERIFIED (Source: backend/data/fetch_weather.py, frontend/src/App.js). The platform integrates real-time hourly weather data collection from the Open-Meteo API, database storage with MongoDB Atlas, a FastAPI REST service executing machine learning inference, and an interactive glassmorphic React 19 dashboard VERIFIED (Source: README.md, backend/main.py, frontend/src/App.js).\n\n---\n\n## Technical Stack",
+    "metadata": {
+      "source": "knowledge/projects/weather-ml",
+      "title": "Weather Ml",
+      "type": "project_detail",
+      "url": "/projects/weather-ml",
+      "chunk_index": 0
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/weather-ml (project_detail)\nTitle: Weather Ml\nURL: /projects/weather-ml\nContent Chunk:\nVERIFIED (Source: README.md, backend/main.py, frontend/src/App.js).\n\n---\n\n## Technical Stack\n| Component | Technologies Used |\n| :--- | :--- |\n| **Backend Framework** | FastAPI, Uvicorn VERIFIED (Source: backend/requirements.txt) |\n| **Machine Learning & Data Processing** | Scikit-Learn, Pandas, NumPy, Joblib VERIFIED (Source: backend/requirements.txt) |\n| **Database** | MongoDB Atlas, PyMongo VERIFIED (Source: README.md, backend/db/mongo_loader.py) |\n| **Data Ingestion** | Open-Meteo API via Python `requests` VERIFIED (Source: backend/data/fetch_weather.py) |\n| **Frontend Framework** | React 19, Recharts VERIFIED (Source: frontend/package.json) |\n| **Dev Tooling** | `concurrently`, Python Virtual Environment VERIFIED (Source: package.json) |\n\n---\n\n## Architecture & Implementation Details",
+    "metadata": {
+      "source": "knowledge/projects/weather-ml",
+      "title": "Weather Ml",
+      "type": "project_detail",
+      "url": "/projects/weather-ml",
+      "chunk_index": 1
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/weather-ml (project_detail)\nTitle: Weather Ml\nURL: /projects/weather-ml\nContent Chunk:\nEnvironment VERIFIED (Source: package.json) |\n\n---\n\n## Architecture & Implementation Details\n```\n                                +-----------------------+\n                                |    Open-Meteo API     |\n                                +-----------+-----------+\n                                            |\n                                            v\n+------------------+           +------------+------------+           +------------------+\n| MongoDB Atlas    | <=======> | Data Ingestion Engine   | --------> | Feature Engine   |\n| (weather_db.py)  |  Upsert   | (fetch_weather.py)      |  Fallback | (hourly_to_daily)|\n+------------------+           +------------+------------+           +--------+---------+\n         |                                                                    |\n         +-----------------------------> + -----------------------------------+\n                                         |\n                                         v\n                                +--------+---------+\n                                | FastAPI Backend  |",
+    "metadata": {
+      "source": "knowledge/projects/weather-ml",
+      "title": "Weather Ml",
+      "type": "project_detail",
+      "url": "/projects/weather-ml",
+      "chunk_index": 2
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/weather-ml (project_detail)\nTitle: Weather Ml\nURL: /projects/weather-ml\nContent Chunk:\n+--------+---------+\n                                | FastAPI Backend  |\n                                | (main.py)        |\n                                +--------+---------+\n                                         |\n                                 ML Model Inference\n                              (7day_temp_model.pkl)\n                                         |\n                                         v\n                                +--------+---------+\n                                | React 19 UI      |\n                                | Dashboard        |\n                                +------------------+\n```\n\n### Key Components",
+    "metadata": {
+      "source": "knowledge/projects/weather-ml",
+      "title": "Weather Ml",
+      "type": "project_detail",
+      "url": "/projects/weather-ml",
+      "chunk_index": 3
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/weather-ml (project_detail)\nTitle: Weather Ml\nURL: /projects/weather-ml\nContent Chunk:\n| Dashboard        |\n                                +------------------+\n```\n\n### Key Components\n1. **Data Ingestion & Storage (`backend/data/`)**:\n   - Fetches hourly data for 6 weather features: `temperature_2m`, `relative_humidity_2m`, `pressure_msl`, `windspeed_10m`, `cloudcover`, and `rain` for coordinates latitude `7.284440`, longitude `80.637466` (Kandy, Sri Lanka) VERIFIED (Source: backend/data/fetch_weather.py, frontend/src/App.js).\n   - `weather_db.py` uses PyMongo `bulk_write` with `UpdateOne(..., upsert=True)` to prevent gaps or duplicate temporal entries VERIFIED (Source: backend/data/weather_db.py).",
+    "metadata": {
+      "source": "knowledge/projects/weather-ml",
+      "title": "Weather Ml",
+      "type": "project_detail",
+      "url": "/projects/weather-ml",
+      "chunk_index": 4
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/weather-ml (project_detail)\nTitle: Weather Ml\nURL: /projects/weather-ml\nContent Chunk:\nto prevent gaps or duplicate temporal entries VERIFIED (Source: backend/data/weather_db.py).\n2. **FastAPI Backend & Inference API (`backend/main.py`)**:\n   - Exposes `GET /predict` endpoint to compute daily forecasts for the next 7 days starting from the current date VERIFIED (Source: backend/main.py).\n   - Aggregates hourly weather data into daily averages (`hourly_to_daily`) using daily resampling VERIFIED (Source: backend/main.py).\n   - Generates lag features (`temp_lag_1` to `temp_lag_14`), rolling averages (`temp_roll_7`, `temp_roll_14`), and calendar metadata (`day_of_year`, `month`, `week_of_year`) VERIFIED (Source: backend/main.py).\n   - Loads a pre-trained serialized scikit-learn model (`7day_temp_model.pkl`) using Joblib to run multi-step output predictions VERIFIED (Source: backend/main.py).",
+    "metadata": {
+      "source": "knowledge/projects/weather-ml",
+      "title": "Weather Ml",
+      "type": "project_detail",
+      "url": "/projects/weather-ml",
+      "chunk_index": 5
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/weather-ml (project_detail)\nTitle: Weather Ml\nURL: /projects/weather-ml\nContent Chunk:\nusing Joblib to run multi-step output predictions VERIFIED (Source: backend/main.py).\n3. **Frontend Dashboard (`frontend/src/App.js`)**:\n   - Built with React 19 and custom Glassmorphism CSS VERIFIED (Source: README.md, frontend/package.json).\n   - Visualizes temperature trends via Recharts with interactive toggles between \"Gradient Area View\" and \"Smooth Line View\" VERIFIED (Source: frontend/src/App.js).\n   - Features dynamic weather condition labeling (e.g., Warm, Mild, Cool, Chilly with responsive emojis) based on predicted daily temperatures VERIFIED (Source: frontend/src/App.js).\n   - Calculates weekly summary statistics (Weekly Average, Peak Temp, Lowest Temp) VERIFIED (Source: frontend/src/App.js).\n\n---\n\n## Machine Learning Pipeline & Data Preprocessing\n\n### Feature Engineering\nThe model transforms hourly raw weather data into aggregated daily time-series features VERIFIED (Source: backend/main.py):",
+    "metadata": {
+      "source": "knowledge/projects/weather-ml",
+      "title": "Weather Ml",
+      "type": "project_detail",
+      "url": "/projects/weather-ml",
+      "chunk_index": 6
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/weather-ml (project_detail)\nTitle: Weather Ml\nURL: /projects/weather-ml\nContent Chunk:\nraw weather data into aggregated daily time-series features VERIFIED (Source: backend/main.py):\n* **Aggregated Physical Features**:\n  - `temperature_2m` (Daily Mean)\n  - `relative_humidity_2m` (Daily Mean)\n  - `pressure_msl` (Daily Mean)\n  - `windspeed_10m` (Daily Mean)\n  - `cloudcover` (Daily Mean)\n  - `rain` (Daily Sum)\n* **Lag Features**: `temp_lag_1`, `temp_lag_2`, `temp_lag_3`, `temp_lag_7`, `temp_lag_14`\n* **Rolling Statistics**: `temp_roll_7` (7-day mean), `temp_roll_14` (14-day mean)\n* **Calendar Features**: `day_of_year`, `month`, `week_of_year`\n\n### Forecasting Model\n* **Model Serialization**: `7day_temp_model.pkl` loaded via Joblib VERIFIED (Source: backend/main.py).\n* **Model Type**: Random Forest / XGBoost Regressor model trained for multi-step daily temperature forecasting VERIFIED (Source: README.md, frontend/src/App.js).\n* **Inference Pipeline**: The model accepts the latest calculated feature vector derived from historical daily data and outputs a 7-day daily mean temperature array VERIFIED (Source: backend/main.py).\n\n---\n\n## Key Technical Solutions & Resilience",
+    "metadata": {
+      "source": "knowledge/projects/weather-ml",
+      "title": "Weather Ml",
+      "type": "project_detail",
+      "url": "/projects/weather-ml",
+      "chunk_index": 7
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/weather-ml (project_detail)\nTitle: Weather Ml\nURL: /projects/weather-ml\nContent Chunk:\ntemperature array VERIFIED (Source: backend/main.py).\n\n---\n\n## Key Technical Solutions & Resilience\n1. **Automatic Database Failover & Fallback Mechanism**:\n   - The application attempts to fetch up to 40 days of historical hourly records from MongoDB Atlas VERIFIED (Source: backend/main.py).\n   - If MongoDB Atlas is unreachable (e.g., DNS resolution failure or network timeout) or contains fewer than 480 hourly records (20 days), the API gracefully falls back to querying live data directly from the Open-Meteo REST API VERIFIED (Source: backend/main.py).\n\n2. **Gap-Proof Bulk Ingestion**:\n   - DB upsert script (`weather_db.py`) uses MongoDB bulk operations with `time` keys as unique identifiers, guaranteeing data continuity across automated runs without duplicate record accumulation VERIFIED (Source: backend/data/weather_db.py).\n\n---\n\n## Datasets & Evaluation Results",
+    "metadata": {
+      "source": "knowledge/projects/weather-ml",
+      "title": "Weather Ml",
+      "type": "project_detail",
+      "url": "/projects/weather-ml",
+      "chunk_index": 8
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/weather-ml (project_detail)\nTitle: Weather Ml\nURL: /projects/weather-ml\nContent Chunk:\naccumulation VERIFIED (Source: backend/data/weather_db.py).\n\n---\n\n## Datasets & Evaluation Results\n* **Dataset Source**: Open-Meteo API historical weather records for geographic coordinates `(7.284440, 80.637466)` VERIFIED (Source: backend/data/fetch_weather.py).\n* **Evaluation Metrics**: Specific metric scores (e.g., RMSE, MAE) are UNKNOWN as the model training notebook (`backend/notebooks/trainingModel.ipynb`) file contents were not included in the repository snapshot.\n\n---\n\n## Repository Structure Overview",
+    "metadata": {
+      "source": "knowledge/projects/weather-ml",
+      "title": "Weather Ml",
+      "type": "project_detail",
+      "url": "/projects/weather-ml",
+      "chunk_index": 9
+    }
+  },
+  {
+    "text": "Context Source: knowledge/projects/weather-ml (project_detail)\nTitle: Weather Ml\nURL: /projects/weather-ml\nContent Chunk:\nfile contents were not included in the repository snapshot.\n\n---\n\n## Repository Structure Overview\n```\nweather-ml/\n├── backend/\n│   ├── data/\n│   │   ├── fetch_weather.py      # Open-Meteo API fetcher\n│   │   └── weather_db.py         # MongoDB bulk upsert script\n│   ├── db/\n│   │   └── mongo_loader.py       # PyMongo DataFrame loader\n│   ├── models/\n│   │   └── 7day_temp_model.pkl   # Serialized ML model\n│   ├── notebooks/\n│   │   └── trainingModel.ipynb   # Jupyter model exploration notebook\n│   ├── config.py                 # Environment variables loader\n│   └── main.py                   # FastAPI REST server & prediction router\n├── frontend/\n│   └── src/\n│       ├── App.js                # React UI with Recharts analytics\n│       └── App.css               # Glassmorphic UI styles\n├── package.json                  # Root runner script (concurrently)\n└── requirements.txt              # Python dependency list",
+    "metadata": {
+      "source": "knowledge/projects/weather-ml",
+      "title": "Weather Ml",
+      "type": "project_detail",
+      "url": "/projects/weather-ml",
+      "chunk_index": 10
+    }
+  }
+]

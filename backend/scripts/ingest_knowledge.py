@@ -34,7 +34,9 @@ async def main():
     print("Chunking documents...")
     all_chunks = []
     for doc in all_docs:
-        chunks = chunk_document(doc)
+        # Use larger chunks for project files since they contain detailed structured knowledge
+        chunk_size = 1000 if doc.get("type") == "project_detail" else 400
+        chunks = chunk_document(doc, chunk_size=chunk_size, chunk_overlap=100)
         all_chunks.extend(chunks)
     print(f"Created {len(all_chunks)} chunks.")
 

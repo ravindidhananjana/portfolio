@@ -24,6 +24,8 @@ class Settings(BaseSettings):
     GITHUB_USERNAME: str = Field("ravindidhananjana", validation_alias="GITHUB_USERNAME")
     GITHUB_TOKEN: str | None = Field(None, validation_alias="GITHUB_TOKEN")
     GITHUB_EXCLUDE_REPOS: str = Field("", validation_alias="GITHUB_EXCLUDE_REPOS")
+    GITHUB_ANALYZE_REPOS: str = Field("", validation_alias="GITHUB_ANALYZE_REPOS")
+    GITHUB_MAX_FILE_SIZE_KB: int = Field(50, validation_alias="GITHUB_MAX_FILE_SIZE_KB")
 
     # ── Agent ────────────────────────────────────────────────────
     SYNC_SECRET: str = Field("super_secret_sync_key", validation_alias="SYNC_SECRET")
@@ -43,7 +45,8 @@ class Settings(BaseSettings):
         return [m.strip() for m in self.OPENROUTER_FALLBACK_MODELS.split(",") if m.strip()]
 
     class Config:
-        env_file = ".env"
+        import os
+        env_file = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env")
         env_file_encoding = "utf-8"
 
 

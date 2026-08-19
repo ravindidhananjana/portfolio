@@ -1,6 +1,10 @@
 import os
 
-def load_local_knowledge(knowledge_dir: str = "app/knowledge") -> list[dict]:
+# Base backend directory
+BACKEND_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+DEFAULT_KNOWLEDGE_DIR = os.path.join(BACKEND_DIR, "app", "knowledge")
+
+def load_local_knowledge(knowledge_dir: str = DEFAULT_KNOWLEDGE_DIR) -> list[dict]:
     """
     Recursively scans the knowledge directory for Markdown files and loads them.
     """
