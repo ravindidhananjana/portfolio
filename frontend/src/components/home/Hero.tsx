@@ -42,7 +42,7 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-xl md:text-2xl font-medium mb-8 bg-gradient-to-r from-accent via-accent-light to-accent-soft bg-clip-text text-transparent"
           >
-            AI & Computer Vision Engineer
+            Artificial Intelligence &amp; Machine Learning Undergraduate
           </motion.h2>
           
           <motion.p 
@@ -51,7 +51,7 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.3 }}
             className="text-lg md:text-xl text-foreground/70 mb-12 text-balance leading-relaxed"
           >
-            I build intelligent systems that solve real‑world problems. Currently exploring multimodal AI, medical imaging, and predictive modeling.
+            Building AI systems with a focus on Deep Learning, Computer Vision, Multimodal AI, and Generative AI — applied to Healthcare, Remote Sensing, Space Technology, and Autonomous Systems.
           </motion.p>
           
           <motion.div 

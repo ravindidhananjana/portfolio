@@ -13,12 +13,16 @@ const fadeInUp = {
 
 export default function AboutPage() {
   const interests = [
+    "Deep Learning",
     "Computer Vision",
+    "Multimodal AI",
+    "Generative AI",
     "Medical Imaging AI",
-    "Multimodal Models",
-    "Predictive Analytics",
+    "Space AI & Remote Sensing",
+    "Autonomous Systems",
+    "LLMs & RAG",
     "AI Agents",
-    "Full-Stack ML"
+    "Feature Engineering",
   ];
 
   return (
@@ -34,7 +38,7 @@ export default function AboutPage() {
             Hi, I&apos;m <span className="gradient-text">Ravindi</span>
           </h1>
           <p className="text-lg md:text-xl text-foreground/70 max-w-3xl leading-relaxed">
-            I&apos;m a final-year AI student bridging cutting-edge research with real-world impact. I build intelligent systems that perceive, understand, and solve complex problems.
+            AI &amp; ML Undergraduate passionate about applying machine learning to high-impact domains like Healthcare, Remote Sensing, Space Technology, and Autonomous Systems.
           </p>
         </motion.div>
       </div>
@@ -135,10 +139,10 @@ export default function AboutPage() {
         >
           <h2 className="text-sm font-mono text-accent uppercase tracking-wider mb-6">My Journey</h2>
           <p className="text-foreground/80 leading-relaxed mb-4">
-            I&apos;m passionate about bridging the gap between cutting-edge AI research and practical applications. What excites me most is working on complex problems—from multimodal medical imaging diagnostics to space-related AI applications—that require deep understanding of both software engineering and advanced machine learning.
+            I&apos;m passionate about bridging the gap between cutting-edge AI research and practical applications. My specialties span Deep Learning, Computer Vision, Multimodal AI, and Generative AI — with a research focus on Space AI &amp; Autonomous Systems, Remote Sensing, and Medical AI.
           </p>
           <p className="text-foreground/80 leading-relaxed">
-            My goal is to become an AI/Computer Vision Engineer where I can build scalable, high-impact intelligent systems that make a real difference. I believe technology should solve meaningful problems.
+            From building a multimodal pipeline to classify Acute Myeloid Leukemia subtypes from 81K+ blood smear images, to mapping lunar terrain hazards from NASA/LROC imagery, to creating an AI clinical simulator powered by Google Gemini — I believe technology should solve meaningful problems at scale.
           </p>
         </motion.div>
 

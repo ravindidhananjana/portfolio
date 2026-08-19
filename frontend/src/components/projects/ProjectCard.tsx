@@ -42,6 +42,13 @@ export default function ProjectCard({ project, index }: ProjectCardProps) {
           {project.description}
         </p>
         
+        {project.keyResult && (
+          <div className="inline-flex items-center gap-1.5 mb-4 px-3 py-1.5 rounded-full bg-accent/10 border border-accent/25 text-accent text-xs font-semibold">
+            <span>⭐</span>
+            <span>{project.keyResult}</span>
+          </div>
+        )}
+        
         <div className="flex flex-wrap gap-2 mb-6">
           {project.tags.map(tag => (
             <span 
