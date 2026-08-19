@@ -155,10 +155,8 @@ class LLMClientWithFallback:
             return result.embeddings[0].values
         except Exception as e:
             logger.warning(f"Gemini embedding failed: {e}")
-
-        # If OpenRouter is configured, we could try an embedding model there
-        # For now, re-raise since OpenRouter free models typically don't support embeddings
-        raise RuntimeError(f"Embedding failed: {e}") from e
+            # Re-raise inside the except block; Python clears `e` after the block exits.
+            raise RuntimeError(f"Embedding failed: {e}") from e
 
 
 # Backward compatibility alias
