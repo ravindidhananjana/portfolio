@@ -189,7 +189,7 @@ export default function AgentPage() {
                 Live assistant
               </div>
               <div className="flex items-center gap-2 text-xs text-foreground/60">
-                <span className="h-2.5 w-2.5 rounded-full bg-emerald-400 shadow-[0_0_12px_rgba(52,211,153,0.9)]" />
+                <span className="h-2.5 w-2.5 rounded-full bg-accent-soft shadow-[0_0_12px_rgba(175,113,157,0.9)]" />
                 Ready
               </div>
             </div>

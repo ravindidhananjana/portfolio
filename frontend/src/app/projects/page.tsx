@@ -23,7 +23,7 @@ export default function ProjectsPage() {
             <span className="text-sm font-mono text-accent uppercase tracking-wider">Portfolio</span>
           </div>
           <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-            Featured <span className="text-accent">Projects</span>
+            Featured <span className="gradient-text">Projects</span>
           </h1>
           <p className="text-lg md:text-xl text-foreground/70 max-w-3xl leading-relaxed">
             Real-world AI applications focusing on impact and technical depth. From medical imaging to multimodal systems.

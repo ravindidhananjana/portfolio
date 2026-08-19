@@ -31,7 +31,7 @@ export default function AboutPage() {
             <span className="text-sm font-mono text-accent uppercase tracking-wider">About</span>
           </div>
           <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-            Hi, I&apos;m <span className="text-accent">Ravindi</span>
+            Hi, I&apos;m <span className="gradient-text">Ravindi</span>
           </h1>
           <p className="text-lg md:text-xl text-foreground/70 max-w-3xl leading-relaxed">
             I&apos;m a final-year AI student bridging cutting-edge research with real-world impact. I build intelligent systems that perceive, understand, and solve complex problems.

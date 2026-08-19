@@ -22,7 +22,7 @@ export default function ResumePage() {
               <span className="text-sm font-mono text-accent uppercase tracking-wider">Resume</span>
             </div>
             <h1 className="text-5xl md:text-6xl font-bold leading-tight">
-              Experience &amp; <span className="text-accent">Skills</span>
+              Experience &amp; <span className="gradient-text">Skills</span>
             </h1>
           </div>
           

@@ -11,7 +11,9 @@ export default function Hero() {
   return (
     <section className="relative pt-40 pb-24 md:pt-56 md:pb-40 overflow-hidden">
       {/* Background decoration */}
-      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-accent/20 rounded-full blur-[120px] -z-10 pointer-events-none" />
+      <div className="absolute top-1/3 left-1/4 -translate-x-1/2 -translate-y-1/2 w-[700px] h-[700px] bg-accent-soft/25 rounded-full blur-[130px] -z-10 pointer-events-none" />
+      <div className="absolute -bottom-40 right-0 w-[600px] h-[600px] bg-accent-pale/40 rounded-full blur-[130px] -z-10 pointer-events-none" />
+      <div className="absolute top-0 right-1/4 w-[500px] h-[500px] bg-accent/15 rounded-full blur-[110px] -z-10 pointer-events-none" />
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center max-w-3xl mx-auto">
@@ -38,7 +40,7 @@ export default function Hero() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="text-xl md:text-2xl text-accent font-medium mb-8"
+            className="text-xl md:text-2xl font-medium mb-8 bg-gradient-to-r from-accent via-accent-light to-accent-soft bg-clip-text text-transparent"
           >
             AI & Computer Vision Engineer
           </motion.h2>

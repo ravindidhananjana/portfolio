@@ -22,7 +22,7 @@ export default function ContactPage() {
             <span className="text-sm font-mono text-accent uppercase tracking-wider">Connect</span>
           </div>
           <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-            Let&apos;s <span className="text-accent">Talk</span>
+            Let&apos;s <span className="gradient-text">Talk</span>
           </h1>
           <p className="text-lg md:text-xl text-foreground/70 max-w-3xl mx-auto leading-relaxed">
             I&apos;m always interested in new opportunities, collaborations, and conversations about AI and computer vision.

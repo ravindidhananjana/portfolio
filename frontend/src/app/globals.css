@@ -4,8 +4,8 @@
 
 @layer base {
   :root {
-    --background: #f5f5f7;
-    --foreground: #1a1a2e;
+    --background: #fbf7fa;
+    --foreground: #241f38;
   }
 
   * {
@@ -13,7 +13,11 @@
   }
 
   body {
-    @apply bg-background text-foreground antialiased selection:bg-accent selection:text-white;
+    @apply bg-background text-foreground antialiased selection:bg-accent-light selection:text-white;
+    background-image:
+      radial-gradient(ellipse 80% 50% at 20% -10%, rgba(248, 178, 178, 0.18), transparent),
+      radial-gradient(ellipse 60% 40% at 100% 0%, rgba(139, 99, 155, 0.12), transparent);
+    background-attachment: fixed;
   }
 }
 
@@ -24,5 +28,9 @@
   
   .glass-panel {
     @apply bg-surface/80 backdrop-blur-md border border-surface-border rounded-xl;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-accent via-accent-light to-accent-soft bg-clip-text text-transparent;
   }
 }

@@ -21,7 +21,7 @@ export default function LabPage() {
             <span className="text-sm font-mono text-accent uppercase tracking-wider">Lab</span>
           </div>
           <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-            Research &amp; <span className="text-accent">Experiments</span>
+            Research &amp; <span className="gradient-text">Experiments</span>
           </h1>
           <p className="text-lg md:text-xl text-foreground/70 max-w-3xl leading-relaxed">
             My experimental space for testing cutting-edge architectures and documenting research learnings. This is where ideas come to life.
