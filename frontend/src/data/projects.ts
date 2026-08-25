@@ -60,6 +60,7 @@ export const projects: Project[] = [
       "Deep learning pipeline integrating 81K+ blood smear images with clinical data for Acute Myeloid Leukemia subtype classification. Combines CNN-based image features with tabular patient data for a robust multimodal diagnosis system.",
     keyResult: "86.8% test accuracy",
     tags: ["Deep Learning", "Computer Vision", "Medical AI", "Multimodal AI", "PyTorch"],
+    imageUrl: "/projects/aml-cancer-classification.jpg",
     liveUrl: "https://aml-cancer-classification.streamlit.app/",
     featured: true,
     details: {
@@ -159,6 +160,7 @@ export const projects: Project[] = [
       "Computer vision hazard evaluation pipeline using NASA/LROC imagery to map terrain risks for lunar touchdowns. Segments crater fields, slope gradients, and shadowed regions to generate a composite safety score for candidate landing sites.",
     keyResult: "Continuous Risk Heatmaps",
     tags: ["Computer Vision", "Space AI", "Remote Sensing", "NASA/LROC", "OpenCV"],
+    imageUrl: "/projects/lunar-landing-safety.jpg",
     liveUrl: "https://lunar-landing-safety-analysis.streamlit.app/",
     featured: true,
     details: {
@@ -238,6 +240,7 @@ export const projects: Project[] = [
       "Interactive medical education tool powered by Google Gemini and Streamlit. Presents dynamic MBBS-level clinical cases with multilingual voice interaction, adaptive questioning, and real-time feedback to help medical students practice clinical reasoning.",
     keyResult: "Voice & Multilingual AI",
     tags: ["Generative AI", "Google Gemini", "LLM", "Medical AI", "Streamlit", "Multimodal AI"],
+    imageUrl: "/projects/clinical-simulator.jpg",
     liveUrl: "https://final-mbbs-clinical-simulator.streamlit.app/",
     featured: true,
     details: {
