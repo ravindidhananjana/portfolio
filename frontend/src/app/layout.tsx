@@ -27,6 +27,21 @@ export const metadata: Metadata = {
     url: "https://ravindi-gunasekara.vercel.app/",
     siteName: "Ravindi Gunasekara Portfolio",
     type: "website",
+    images: [
+      {
+        url: "/og-image.jpg",
+        width: 1024,
+        height: 1024,
+        alt: "Ravindi Gunasekara Portfolio Preview",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Ravindi Gunasekara | AI & Computer Vision Engineer",
+    description:
+      "Portfolio of Ravindi Gunasekara, AI and Computer Vision Engineer specializing in Deep Learning, Multimodal AI, and Generative AI applied to healthcare, remote sensing, and autonomous systems.",
+    images: ["/og-image.jpg"],
   },
 };
 
