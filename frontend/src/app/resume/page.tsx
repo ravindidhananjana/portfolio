@@ -26,11 +26,11 @@ export default function ResumePage() {
             </h1>
           </div>
           
-          <Link href="/cv/ravindi-gunasekara-cv.pdf" target="_blank">
+          <a href="/cv/ravindi-gunasekara-cv.pdf" download="Ravindi_Gunasekara_Resume.pdf" target="_blank" rel="noopener noreferrer">
             <Button className="gap-2 whitespace-nowrap h-12 px-8">
               <Download className="w-4 h-4" /> Download PDF
             </Button>
-          </Link>
+          </a>
         </motion.div>
       </div>
 
