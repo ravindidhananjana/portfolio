@@ -1,13 +1,17 @@
-"use client"
+"use client";
 
-import { projects } from "@/data/projects";
+import { useState } from "react";
+import { projects, Project } from "@/data/projects";
 import ProjectCard from "@/components/projects/ProjectCard";
+import ProjectModal from "@/components/projects/ProjectModal";
 import { motion } from "framer-motion";
 import { Sparkles, ArrowRight } from "lucide-react";
 import Link from "next/link";
 import { Button } from "@/components/ui/Button";
 
 export default function ProjectsPage() {
+  const [selectedProject, setSelectedProject] = useState<Project | null>(null);
+
   return (
     <div className="min-h-screen">
       {/* Header */}
@@ -26,7 +30,7 @@ export default function ProjectsPage() {
             Featured <span className="gradient-text">Projects</span>
           </h1>
           <p className="text-lg md:text-xl text-foreground/70 max-w-3xl leading-relaxed">
-            Real-world AI applications focusing on impact and technical depth. From medical imaging to multimodal systems.
+            Real-world AI applications focusing on impact and technical depth. Click any project card to inspect its complete methodology, dataset citations, and architecture.
           </p>
         </motion.div>
       </div>
@@ -35,7 +39,12 @@ export default function ProjectsPage() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-32">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {projects.map((project, index) => (
-            <ProjectCard key={project.id} project={project} index={index} />
+            <ProjectCard
+              key={project.id}
+              project={project}
+              index={index}
+              onSelect={(p) => setSelectedProject(p)}
+            />
           ))}
         </div>
 
@@ -57,6 +66,13 @@ export default function ProjectsPage() {
           </Link>
         </motion.div>
       </div>
+
+      {/* Detail Popup Modal */}
+      <ProjectModal
+        project={selectedProject}
+        isOpen={Boolean(selectedProject)}
+        onClose={() => setSelectedProject(null)}
+      />
     </div>
   );
 }
