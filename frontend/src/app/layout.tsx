@@ -15,8 +15,18 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://ravindi-gunasekara.vercel.app"),
   title: "Ravindi Gunasekara | AI & Computer Vision Engineer",
-  description: "Portfolio of Ravindi Gunasekara, AI and Computer Vision Engineer.",
+  description:
+    "Portfolio of Ravindi Gunasekara, AI and Computer Vision Engineer specializing in Deep Learning, Multimodal AI, and Generative AI applied to healthcare, remote sensing, and autonomous systems.",
+  openGraph: {
+    title: "Ravindi Gunasekara | AI & Computer Vision Engineer",
+    description:
+      "Portfolio of Ravindi Gunasekara, AI and Computer Vision Engineer specializing in Deep Learning, Multimodal AI, and Generative AI applied to healthcare, remote sensing, and autonomous systems.",
+    url: "https://ravindi-gunasekara.vercel.app/",
+    siteName: "Ravindi Gunasekara Portfolio",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
