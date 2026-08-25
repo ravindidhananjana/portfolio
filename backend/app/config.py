@@ -6,10 +6,10 @@ from typing import List
 class Settings(BaseSettings):
     # ── Gemini API ──────────────────────────────────────────────
     GEMINI_API_KEY: str = Field(..., validation_alias="GEMINI_API_KEY")
-    GEMINI_MODEL: str = Field("gemini-2.0-flash", validation_alias="GEMINI_MODEL")
-    GEMINI_EMBEDDING_MODEL: str = Field("text-embedding-004", validation_alias="GEMINI_EMBEDDING_MODEL")
+    GEMINI_MODEL: str = Field("gemini-3.6-flash", validation_alias="GEMINI_MODEL")
+    GEMINI_EMBEDDING_MODEL: str = Field("gemini-embedding-2", validation_alias="GEMINI_EMBEDDING_MODEL")
     # Comma-separated list of fallback Gemini models to try in order
-    GEMINI_FALLBACK_MODELS: str = Field("gemini-1.5-flash,gemini-1.5-pro", validation_alias="GEMINI_FALLBACK_MODELS")
+    GEMINI_FALLBACK_MODELS: str = Field("gemini-2.5-flash,gemini-2.0-flash", validation_alias="GEMINI_FALLBACK_MODELS")
 
     # ── OpenRouter API (fallback) ───────────────────────────────
     OPENROUTER_API_KEY: str | None = Field(None, validation_alias="OPENROUTER_API_KEY")
